@@ -1,0 +1,1467 @@
+---
+kind: 歌仔冊
+
+metadata:
+  title: "百花相褒歌"
+  publisher: "竹林書局"
+
+lyrics:
+  1:
+    unkha: o
+    1:
+      POJ: Koa-á hó pháiⁿ chāi-lâng chò
+      original: 歌仔好呆在人作
+      modify01: 歌仔好歹在人作
+    2:
+      POJ: Góa liām ê koa khǹg lâng hó
+      original: 我念兮歌勸人好
+      modify01: 我唸的歌勸人好
+    3:
+      POJ: Lia̍t-ūi m̄-sìn thiaⁿ góa pò
+      original: 列位不信听我報
+      modify01: 列位毋信聽我報
+    4:
+      POJ: Tē-it kái khǹg pêng-iú ko
+      original: 第一改勸朋友哥
+      modify01: 第一改勸朋友哥
+  2:
+    unkha: un
+    1:
+      POJ: Ū-lâng liām koa chin gâu pûn
+      original: 有人念歌真肴噴
+      modify01: 有人唸歌真𠢕歕
+    2:
+      POJ: Góa chò ê koa khǹg-sè bûn
+      original: 我做个歌勸世文
+      modify01: 我做的歌勸世文
+    3:
+      POJ: Chim-chiok kai thiaⁿ chiah ū chún
+      original: 斟酌皆听即有準
+      modify01: 斟酌皆聽才有準
+    4:
+      POJ: Îng-ōe m̄-bián kóng kui tun
+      original: 榮話不免廣歸墩
+      modify01: 閒話毋免講規墩
+  3:
+    unkha: oe
+    1:
+      POJ: Chit-pún koa miâ kiò Pah-hoe
+      original: 這本歌名叫百花
+      modify01: 這本歌名叫百花
+    2:
+      POJ: Lōe-tiong si̍t-sū bô chhiò-khoe
+      original: 內中實事無笑科
+      modify01: 內中實事無笑詼
+    3:
+      POJ: Chiong hoe ê miâ lâi kai chòe
+      original: 將花个名來皆做
+      modify01: 將花的名來皆做
+    4:
+      POJ: Kah-ì chiah lâi Sin-tek bóe
+      original: 甲意即來新竹買
+      modify01: 佮意即來新竹買
+  4:
+    unkha: oaⁿ
+    1:
+      POJ: Chuí-sian khui-hoe hó pâi-tôaⁿ
+      original: 水仙開花好排壇
+      modify01: 水仙開花好排壇
+      note: {'pâi-tôaⁿ': '裝飾祭壇'}
+    2:
+      POJ: Hiahⁿ-māi lī-lâng sio-tuì khòaⁿ
+      original: 兄妹二人相對看
+      modify01: 兄妹二人相對看
+    3:
+      POJ: Nā-khì lī-lâng kāng sim-koaⁿ
+      original: 那下二人仝心肝
+      modify01: 若下二人仝心肝
+    4:
+      POJ: Khah-hó chhiⁿ-san léng chuí-tsuâⁿ
+      original: 恰好清山冷水泉
+      modify01: 較好青山冷水泉
+  5:
+    unkha: i
+    1:
+      POJ: Hû-iông khai-hoa ē kiat-chí
+      original: 芙蓉開花會結子
+      modify01: 芙蓉開花會結子
+    2:
+      POJ: Kam-goān kā hiahⁿ kiat peh-nî
+      original: 甘愿共兄結百年
+      modify01: 甘願共兄結百年
+    3:
+      POJ: Siâng-lâng hiau-sim lûi tán-sí
+      original: 誰人僥心雷打死
+      modify01: 誰人僥心雷打死
+    4:
+      POJ: Tāi-sing hiau-sim lō͘-pāng-si
+      original: 代先僥心路傍屍
+      modify01: 代先僥心路傍屍
+  6:
+    unkha: ang
+    1:
+      POJ: Liân-chí khai-hoa chi̍t-tiám âng
+      original: 蓮子開花一点紅
+      modify01: 蓮子開花一點紅
+    2:
+      POJ: Chôan-bāng niû-chí sio-thiàⁿ-thàng
+      original: 全望娘子相痛疼
+      modify01: 全望娘子相痛疼
+    3:
+      POJ: Sio-hāi niû-chí chóng bô-thang
+      original: 相害娘子總不通
+      modify01: 相害娘子總不通
+    4:
+      POJ: Tāi-liām kun sin chhut-gōa-lâng
+      original: 代念君身出外人
+      modify01: 代念君身出外人
+  7:
+    unkha: ang
+    1:
+      POJ: Eng-jiáu khai-hoa chiàⁿ chhiⁿ-hiang
+      original: 櫻爪開花正清香
+      modify01: 鷹爪開花正清香
+    2:
+      POJ: Tng-kim chhut-ū hiau-hiông-lâng
+      original: 當今出有僥雄人
+      modify01: 當今出有僥雄人
+    3:
+      POJ: Ū-hiau bô-hiau bô-tè khòaⁿ
+      original: 有僥無僥無塊看
+      modify01: 有僥無僥無塊看
+    4:
+      POJ: Koek-lâng chhiu-chhiú mo sim-koaⁿ
+      original: 各人伸手摸心肝
+      modify01: 各人伸手摸心肝
+  8:
+    unkha: ing
+    1:
+      POJ: Ji̍t-khuî khai-hoa hiòng tang-pêng
+      original: 日葵開花向東平
+      modify01: 日葵開花向東平
+    2:
+      POJ: Bô-gî niû-chí chiah choat-chêng
+      original: 無疑娘子即絕情
+      modify01: 無疑娘子才絕情
+    3:
+      POJ: Chá-ji̍t nā-chai chi̍u mài in
+      original: 早日那知就勿應
+      modify01: 早日若知就莫應
+    4:
+      POJ: Hùi-lió sim-sîn chin bô-bîng
+      original: 費了心神真不明
+      modify01: 費了心神真不明
+  9:
+    unkha: i
+    1:
+      POJ: Bo̍k-pit khai-hoa ū chi̍t-chi
+      original: 木筆開花有一枝
+      modify01: 木筆開花有一枝
+    2:
+      POJ: Khòaⁿ ko seⁿ-chhiâⁿ chin bûn-lí
+      original: 看哥生成真文理
+      modify01: 看哥生成真文理
+    3:
+      POJ: Khah-iâⁿ Phuaⁿ An chài chhut-sì
+      original: 恰營潘安再出世
+      modify01: 較贏潘安再出世
+    4:
+      POJ: Hāi gún si-sióng cha̍p-jī-sî
+      original: 害阮思想十二時
+      modify01: 害阮思想十二時
+  10:
+    unkha: in
+    1:
+      POJ: Hō͘-sòaⁿ khai-hoa îⁿ-ní-ní
+      original: 雨傘開花員乳乳
+      modify01: 雨傘開花圓乳乳
+    2:
+      POJ: Chhiú gia̍h hō͘-sòaⁿ kò͘ niû sin
+      original: 手夯雨傘顧娘身
+      modify01: 手夯雨傘顧娘身
+    3:
+      POJ: Chi̍t-sî bô-khòaⁿ niû-chí bīn
+      original: 一時無看娘子面
+      modify01: 一時無看娘子面
+    4:
+      POJ: Kut-thâu thàng-thiàⁿ bē pan-sin
+      original: 骨頭疼痛袂翻身
+      modify01: 骨頭疼痛袂翻身
+  11:
+    unkha: e
+    1:
+      POJ: Hâng-chiok khai-hoa hó chò-tê
+      original: 杭菊開花好做茶
+      modify01: 杭菊開花好做茶
+    2:
+      POJ: Chīn-sim sio-hó bô kúi-ê
+      original: 盡心相好無幾个
+      modify01: 盡心相好無幾个
+    3:
+      POJ: Lán-kim sèng-hut tio̍h ke-sè
+      original: 咱今聖佛着加係
+      modify01: 咱今聖佛著加細
+    4:
+      POJ: Sè-beh hiahⁿ-māi kiat-siâⁿ ke
+      original: 係卜兄妹結成家
+      modify01: 著欲兄妹結成家
+  12:
+    unkha: iu
+    1:
+      POJ: Hiang-iûⁿ khai-hoa siâⁿ hut-chhió
+      original: 香楊開花成佛手
+      modify01: 香楊開花成佛手
+    2:
+      POJ: Siang-lâng tng-thiⁿ chia̍h hoat-chiú
+      original: 双人當天食血酒
+      modify01: 雙人當天食血酒
+    3:
+      POJ: Sī-mih tiōng-sē lán lâi chiù
+      original: 是乜重誓咱來咒
+      modify01: 是乜重誓咱來咒
+    4:
+      POJ: Sing hiau ê lâng chōe tio̍h siu
+      original: 先僥个人罪着收
+      modify01: 先僥个人罪著收
+  13:
+    unkha: im
+    1:
+      POJ: Pông-lâi khai-hoa chāi sian-kíng
+      original: 𦬬萊開花在仙境
+      modify01: 蓬萊開花在仙境
+    2:
+      POJ: Tng-kim ū-chîⁿ chin hó-iōng
+      original: 當今有錢真好用
+      modify01: 當今有錢真好用
+    3:
+      POJ: Gún-kim kah ko chiah chīn-sim
+      original: 阮今恰哥即盡心
+      modify01: 阮今佮哥才盡心
+    4:
+      POJ: Bāng-beh hiahⁿ-ko sio tì-im
+      original: 望卜兄哥相致蔭
+      modify01: 望欲兄哥相致蔭
+  14:
+    unkha: iu
+    1:
+      POJ: Ge̍h-kuí khai-hoa sī tiong-chhiu
+      original: 月桂開花是中秋
+      modify01: 月桂開花是中秋
+    2:
+      POJ: Sio-hó bô-kau kau pîng-iú
+      original: 相好不交交朋友
+      modify01: 相好不交交朋友
+    3:
+      POJ: Pîng-iú lo̍h-nān sio kái-kiù
+      original: 朋友落難相改救
+      modify01: 朋友落難相解救
+    4:
+      POJ: Sio-hó lo̍h-nān kiat oan-chhiû
+      original: 相好落難結寃仇
+      modify01: 相好落難結冤仇
+  15:
+    unkha: ian
+    1:
+      POJ: Hông-tê khai-hoa chāi se-thiⁿ
+      original: 黃茶開花在西天
+      modify01: 黃茶開花在西天
+    2:
+      POJ: Hiahⁿ-māi sio-hó sī tng-jiân
+      original: 兄妹相好是當然
+      modify01: 兄妹相好是當然
+    3:
+      POJ: Bī-tsai hiahⁿ-ko hō͘-lâng phiàn
+      original: 未知兄哥乎人騙
+      modify01: 未知兄哥予人騙
+    4:
+      POJ: Chiah-ē chi̍t-sî choat in-iân
+      original: 即會一時絕姻緣
+      modify01: 才會一時絕姻緣
+  16:
+    unkha: u
+    1:
+      POJ: Iâu-kian khai-hoa sian-soaⁿ ū
+      original: 瑤根開花仙山有
+      modify01: 瑤根開花仙山有
+    2:
+      POJ: Han-chûn khòe-hái pòaⁿ tîm-phû
+      original: 番船過海半沉浮
+      modify01: 番船過海半沉浮
+    3:
+      POJ: Bī-tsai niû-chí tòa hē-chhù
+      original: 未知娘子帶下厝
+      modify01: 未知娘子蹛下厝
+    4:
+      POJ: Khah-chám hō͘ niû pê-tio̍h hû
+      original: 恰慘乎娘迷着符
+      modify01: 較慘予娘迷著符
+  17:
+    unkha: o͘
+    1:
+      POJ: Chhiah-siu khai-thàu siu hô-hô
+      original: 赤鬚開透鬚何何
+      modify01: 赤鬚開透鬚何何
+    2:
+      POJ: Nâ-tah chhut-tīn the̍h kim-kho͘
+      original: 哪叱出陣提金箍
+      modify01: 哪吒出陣提金箍
+    3:
+      POJ: Uī ko kùa-tiàu àm-àm khó͘
+      original: 為哥刈吊暗暗苦
+      modify01: 為哥挂吊暗暗苦
+    4:
+      POJ: Chi̍t-sî o-àm kiâⁿ bô-lō͘
+      original: 一時烏暗行無路
+      modify01: 一時烏暗行無路
+  18:
+    unkha: ian
+    1:
+      POJ: Ge̍h-hiang khai-hoa hiang thàu-thiⁿ
+      original: 月香開花香透天
+      modify01: 月香開花香透天
+    2:
+      POJ: Ông-ún iōng-kè hiàn Tiau-siân
+      original: 王允用計献貂蟬
+      modify01: 王允用計獻貂蟬
+    3:
+      POJ: Tng-chho chin gāng hō͘ niû phiàn
+      original: 當初真戇乎娘騙
+      modify01: 當初真戇予娘騙
+    4:
+      POJ: Kim-ji̍t nā-siūⁿ nā liáu-jiân
+      original: 今日那想那了然
+      modify01: 今日若想若了然
+  19:
+    unkha: ang
+    1:
+      POJ: Kim-hōng khai-hoa hio̍h-hā hông
+      original: 金鳳開花葉下黃
+      modify01: 金鳳開花葉下黃
+    2:
+      POJ: Kah hiahⁿ sio-hó tsîng tiⁿ-thn̂g
+      original: 恰兄相好情甜糖
+      modify01: 佮兄相好情甜糖
+    3:
+      POJ: Pháiⁿ-lâng koái niû lán lâi toān
+      original: 呆人拐娘咱來斷
+      modify01: 歹人拐娘咱來斷
+    4:
+      POJ: Hāi niû mê-ji̍t sim-koaⁿ sng
+      original: 害娘冥日心肝酸
+      modify01: 害娘暝日心肝酸
+  20:
+    unkha: o
+    1:
+      POJ: Lo̍k-chhang khai-hoa peh-poh-poh
+      original: 鹿葱開花白波波
+      modify01: 鹿蔥開花白波波
+    2:
+      POJ: Pa̍t-sian khòe-hái Nâ Chái-hô
+      original: 八仙過海藍采和
+      modify01: 八仙過海藍采和
+    3:
+      POJ: Chin-miâ chièng-sèng kā hiahⁿ pò
+      original: 真名正姓共兄報
+      modify01: 真名正姓共兄報
+    4:
+      POJ: Chiah bián hō͘ hiahⁿ khì chōe-bô
+      original: 即免乎兄去尋無
+      modify01: 才免予兄去尋無
+  21:
+    unkha: ai
+    1:
+      POJ: Bo̍k-hiang khai-hoa lâng siōng-ài
+      original: 木香開花人上愛
+      modify01: 木香開花人上愛
+    2:
+      POJ: Sió-niû tòa-chāi Mái-chhiang-lāi
+      original: 小娘住在馬庄內
+      modify01: 小娘蹛在馬庄內
+    3:
+      POJ: Hiahⁿ-ko bô-hiâm lí chiah lâi
+      original: 兄哥無嫌汝即來
+      modify01: 兄哥無嫌汝才來
+    4:
+      POJ: Mn̂g-gōa kiò-siaⁿ gún chi̍u chai
+      original: 門外叫聲阮就知
+      modify01: 門外吪聲阮就知
+  22:
+    unkha: ang
+    1:
+      POJ: Ke-koaⁿ khai-hoa thâu âng-âng
+      original: 鷄冠開花頭紅紅
+      modify01: 雞冠開花頭紅紅
+    2:
+      POJ: Bûn-bîng niû-á ū-chîⁿ-lâng
+      original: 文明娘仔有錢人
+      modify01: 文明娘仔有錢人
+    3:
+      POJ: Chôan-bāng niû-á sio-thiàⁿ-thàng
+      original: 全望娘仔相痛疼
+      modify01: 全望娘仔相痛疼
+    4:
+      POJ: Tāi-liām ko sin chhut-gōa-lâng
+      original: 代念哥身出外人
+      modify01: 代念哥身出外人
+  23:
+    unkha: o
+    1:
+      POJ: Kán-ná khai-hoa chhin-chhiūⁿ thô
+      original: 橄欖開花親像桃
+      modify01: 橄欖開花親像桃
+    2:
+      POJ: Khòaⁿ hiahⁿ seⁿ-súi cha̍p-hun hó
+      original: 看兄生水十分好
+      modify01: 看兄生水十分好
+    3:
+      POJ: Seⁿ-chhiâⁿ sì-phuè khá-chong-ko
+      original: 生成四配巧宗哥
+      modify01: 生成四配巧宗哥
+    4:
+      POJ: Chāi gún chhiang-tiong chōe to bô
+      original: 在阮庄中尋都無
+      modify01: 在阮庄中尋都無
+  24:
+    unkha: o
+    1:
+      POJ: Gio̍k-lân khai-hoa peh-poh-poh
+      original: 玉蘭開花白波波
+      modify01: 玉蘭開花白波波
+    2:
+      POJ: Bú-siông sat-só chhiú gia̍h to
+      original: 武祥殺嫂手夯刀
+      modify01: 武祥殺嫂手夯刀
+    3:
+      POJ: Sian-lâng phah-kó͘ ū-sî chho
+      original: 仙人打鼓有時錯
+      modify01: 仙人打鼓有時錯
+    4:
+      POJ: Kha-pō͘ kiâⁿ-chha siâng-lâng bô
+      original: 脚步行差誰人無
+      modify01: 腳步行差誰人無
+  25:
+    unkha: ang
+    1:
+      POJ: Pî-pê khai-hoa chí sī hông
+      original: 批把開花子是黃
+      modify01: 枇杷開花子是黃
+    2:
+      POJ: Ian-pôaⁿ pâi-lo̍h chhông tiong-ong
+      original: 煙盤排落床中央
+      modify01: 煙盤排落床中央
+    3:
+      POJ: A-ko beh chia̍h gún lâi chng
+      original: 阿哥卜食阮來裝
+      modify01: 阿哥欲食阮來裝
+    4:
+      POJ: Khah-hó liân-chí phàu ping-thn̂g
+      original: 恰好蓮子泡氷糖
+      modify01: 較好蓮子泡冰糖
+  26:
+    unkha: iau
+    1:
+      POJ: Chhài-tāu khai-hoa tn̂g-tóe tiâu
+      original: 菜豆開花長短條
+      modify01: 菜豆開花長短條
+    2:
+      POJ: Iûⁿ-bê khai-hoa pòaⁿ-mê-tiâu
+      original: 楊梅開花半冥朝
+      modify01: 楊梅開花半暝朝
+    3:
+      POJ: Sîn-hûn hō͘ niû pê-khì liáu
+      original: 神魂乎娘迷去了
+      modify01: 神魂予娘迷去了
+    4:
+      POJ: Saⁿ-tang bô-chia̍h bô-chai iá
+      original: 三當無食不知飫
+      modify01: 三冬無食不知飽
+  27:
+    unkha: ang
+    1:
+      POJ: Iā-hiang khai-hoa thàu mê-hiang
+      original: 夜香開花透冥香
+      modify01: 夜香開花透暝香
+    2:
+      POJ: Khòaⁿ ko seⁿ-súi chin thiau-lāng
+      original: 看哥生水真挑弄
+      modify01: 看哥生水真挑弄
+    3:
+      POJ: Pē-bó chhin-chiâⁿ bô-khén phàng
+      original: 父母親成不肯放
+      modify01: 父母親情不肯放
+    4:
+      POJ: Uī ko siong-si kùa-tiàu lâng
+      original: 為哥想思刈吊人
+      modify01: 為哥相思掛吊人
+  28:
+    unkha: an
+    1:
+      POJ: Gio̍k-lân khai-hoa hio̍h uan-uan
+      original: 玉蘭開花葉灣灣
+      modify01: 玉蘭開花葉灣灣
+    2:
+      POJ: Ba̍k-bóe kā niû lí thau-koan
+      original: 目尾共娘汝偷關
+      modify01: 目尾共娘汝偷關
+    3:
+      POJ: Khòaⁿ-kìⁿ niû-á seⁿ hó-khóan
+      original: 看見娘仔生好欵
+      modify01: 看見娘仔生好款
+    4:
+      POJ: Hāi ko mê-ji̍t sim-thâu lān
+      original: 害哥冥日心頭亂
+      modify01: 害哥暝日心頭亂
+  29:
+    unkha: ang
+    1:
+      POJ: Bi̍t-tô khai-hoa ū chi̍t-châng
+      original: 蜜陀開花有一欉
+      modify01: 密陀開花有一欉
+    2:
+      POJ: Pôaⁿ-kó͘ khai-thiⁿ lí chi̍t-lâng
+      original: 盤古開天汝一人
+      modify01: 盤古開天汝一人
+    3:
+      POJ: Chá-chai chhin-chiâⁿ tuì góa kóng
+      original: 早知親成對我講
+      modify01: 早知親情對我講
+    4:
+      POJ: Pē-bó bē mā ko chiah thang
+      original: 父母袂罵哥即通
+      modify01: 父母袂罵哥才通
+  30:
+    unkha: ai
+    1:
+      POJ: Hái-tông khai-hoa ia̍h ài chái
+      original: 海棠開花蝶愛採
+      modify01: 海棠開花蝶愛採
+    2:
+      POJ: Niû lí bē tōa siūⁿ beh pháiⁿ
+      original: 娘汝未大想卜呆
+      modify01: 娘汝未大想欲歹
+    3:
+      POJ: Hiong-chîng lī-liap thut-se-se
+      original: 胸前二粒凸西西
+      modify01: 胸前二粒凸西西
+    4:
+      POJ: Khí-hong lo̍h-hō͘ lí chi̍u chai
+      original: 起風落雨汝就知
+      modify01: 起風落雨汝就知道
+  31:
+    unkha: ang
+    1:
+      POJ: Siông-bî khai-hoa chiàⁿ chhiⁿ-hiang
+      original: 薔薇開花正清香
+      modify01: 薔薇開花正清香
+    2:
+      POJ: Kha tha̍h lâng-iáⁿ ngō͘-sî tiong
+      original: 脚踏人影午時中
+      modify01: 腳踏人影午時中
+    3:
+      POJ: Bô-sī sió-niû ài lo̍k-thiòng
+      original: 不是小娘愛樂暢
+      modify01: 不是小娘愛樂暢
+    4:
+      POJ: Chò-pháiⁿ thàn-chia̍h ko-put-chiong
+      original: 做呆趁食姑不章
+      modify01: 做歹賺食姑不將
+  32:
+    unkha: ing
+    1:
+      POJ: Sông-chó khai-hoa sī khó͘-lēng
+      original: 成棗開花是苦令
+      modify01: 酸棗開花是苦苓
+    2:
+      POJ: Chhit-liap ko-sing chi̍t-liap bîng
+      original: 七粒孤星一粒明
+      modify01: 七粒孤星一粒明
+    3:
+      POJ: Kûn-thàn chîⁿ-gîn hō͘ niû iōng
+      original: 勤趁錢銀乎娘用
+      modify01: 勤賺錢銀予娘用
+    4:
+      POJ: Nā-chai hiau-hiông chiah choat-chêng
+      original: 那知僥雄即絕情
+      modify01: 若知僥雄才絕情
+  33:
+    unkha: ang
+    1:
+      POJ: Kuì-hoa tng khai chhiū-tíng hiang
+      original: 桂花當開樹頂香
+      modify01: 桂花當開樹頂香
+    2:
+      POJ: Siàu-liân hiahⁿ-ko bô-sī lâng
+      original: 少年兄哥不是人
+      modify01: 少年兄哥不是人
+    3:
+      POJ: Bô-thang beh ho̍h chái-hoa-phang
+      original: 不通卜學採花蜂
+      modify01: 不通欲學採花蜂
+    4:
+      POJ: Hoa-sim chái-liáu khòe pa̍t-châng
+      original: 花心採了過別欉
+      modify01: 花心採了過別欉
+  34:
+    unkha: ang
+    1:
+      POJ: Chhiok-io̍h khai-hoa âng iū hông
+      original: 芍葯開花紅又黃
+      modify01: 芍藥開花紅又黃
+    2:
+      POJ: Khe-kháu khòe-liáu sī Sin-chhiang
+      original: 溪口過了是新庄
+      modify01: 溪口過了是新庄
+    3:
+      POJ: Khòaⁿ niû seⁿ-chò chiah iù-nńg
+      original: 看娘生做即幼軟
+      modify01: 看娘生做才幼軟
+    4:
+      POJ: Chhuí-pinn lâi chim khah tiⁿ-thn̂g
+      original: 嘴邊來斟恰甜糖
+      modify01: 嘴邊來斟較甜糖
+  35:
+    unkha: iang
+    1:
+      POJ: Kin-chio khai-hoa siâⁿ kim-tiāⁿ
+      original: 芎蕉開花成金錠
+      modify01: 弓蕉開花成金錠
+    2:
+      POJ: Góa ū kā ko sió thàm-thiaⁿ
+      original: 我有共哥小探听
+      modify01: 我有共哥小探聽
+    3:
+      POJ: Kau ū sió-niû seⁿ sì-chiàⁿ
+      original: 交有小娘生四正
+      modify01: 交有小娘生端正
+    4:
+      POJ: Chiah-kú bô-kán gún-chhù kiâⁿ
+      original: 即久不敢阮厝行
+      modify01: 遮久不敢阮厝行
+  36:
+    unkha: ang
+    1:
+      POJ: Mûi-hoa khai-thàu niá-tíng hiang
+      original: 梅花開透嶺頂香
+      modify01: 梅花開透嶺頂香
+    2:
+      POJ: Ko-chhù iā-ū sī-tāi-lâng
+      original: 哥厝野有示大人
+      modify01: 哥厝亦有示大人
+    3:
+      POJ: Niû-á chīn-chīn kā góa kóng
+      original: 娘仔靜靜共我講
+      modify01: 娘仔靜靜共我講
+    4:
+      POJ: Khí-kha tāng-chhió sing bô-thang
+      original: 起脚動手先不通
+      modify01: 起腳動手先不通
+  37:
+    unkha: it
+    1:
+      POJ: Hâm-chhiò khai-hoa siâⁿ bo̍k-pit
+      original: 含笑開花成木筆
+      modify01: 含笑開花成木筆
+    2:
+      POJ: Kah ko sio-hó chin chhin-bi̍t
+      original: 甲哥相好真親蜜
+      modify01: 佮哥相好真親蜜
+    3:
+      POJ: Ko lâi niû khì bô chhiap-it
+      original: 哥來娘去不接一
+      modify01: 哥來娘去不接一
+    4:
+      POJ: Lâi hō͘ gún chiau khah tiâu-ti̍t
+      original: 來乎阮招恰朝直
+      modify01: 來予阮招較條直
+  38:
+    unkha: i
+    1:
+      POJ: Chhiah-chok khai-hoa tē-hā hi
+      original: 赤足開花地下希
+      modify01: 赤足開花地下稀
+    2:
+      POJ: Niû lí khòaⁿ ko chhiò bî-bî
+      original: 娘汝看哥笑微微
+      modify01: 娘汝看哥笑微微
+    3:
+      POJ: Sī niû ài ko gio̍k-jû-ì
+      original: 是娘愛哥玉如意
+      modify01: 是娘愛哥玉如意
+    4:
+      POJ: Chhia-hâm khí-tiāⁿ bô-thang thî
+      original: 車帆起錠不通啼
+      modify01: 車帆起錠不通啼
+  39:
+    unkha: i
+    1:
+      POJ: Chuí-kím khai-hoa peh-si-si
+      original: 水錦開花白糸糸
+      modify01: 水錦開花白絲絲
+    2:
+      POJ: Siàu-liân hiahⁿ-ko seⁿ khá-khì
+      original: 少年兄哥生巧氣
+      modify01: 少年兄哥生巧氣
+    3:
+      POJ: Bîng-bîng cha̍p-hun kah niû-ì
+      original: 明明十分甲娘意
+      modify01: 明明十分合娘意
+    4:
+      POJ: Khó-siak tiong gún m̄ gún i
+      original: 可惜中阮不阮伊
+      modify01: 可惜中阮不阮伊
+  40:
+    unkha: an
+    1:
+      POJ: Chi̍ah-tek khai-hoa chāi Khûn-san
+      original: 石竹開花在權山
+      modify01: 石竹開花在崑崙山
+    2:
+      POJ: Pak-tó͘ nā thiàⁿ thàu sim-koaⁿ
+      original: 腹肚那痛透心肝
+      modify01: 腹肚若痛透心肝
+    3:
+      POJ: Uī niû kùa-tiàu beh án-chóaⁿ
+      original: 為娘刈吊卜按盞
+      modify01: 為娘掛吊欲按怎
+    4:
+      POJ: Chi̍t-sin sio-jiah chi̍t-sin ôaⁿ
+      original: 一尊燒熱一尊寒
+      modify01: 一身燒熱一身寒
+  41:
+    unkha: u
+    1:
+      POJ: Sì-ing khai-hoa hn̂g chīn ū
+      original: 四英開花園盡有
+      modify01: 四英開花園盡有
+    2:
+      POJ: Teng-lân iú-hàu hāi sí bó
+      original: 丁蘭有孝害死母
+      modify01: 丁蘭有孝害死母
+    3:
+      POJ: Lê-hoa chiau-hu sat chhin-pē
+      original: 梨花招夫殺親父
+      modify01: 梨花招夫殺親父
+    4:
+      POJ: Gún beh chiau-sè iā-sī ū
+      original: 阮卜招婿也是有
+      modify01: 阮欲招婿也是有
+  42:
+    unkha: ak
+    1:
+      POJ: Gio̍k-chiam khai-hoa bīn tiâu-pak
+      original: 玉簪開花面朝北
+      modify01: 玉簪開花面朝北
+    2:
+      POJ: Sì-sì bô-bé bé cha̍p-la̍k
+      original: 四四不買買十六
+      modify01: 四四不買買十六
+    3:
+      POJ: Tng-sî khòaⁿ niû bô lo̍h-pak
+      original: 當時看娘無落腹
+      modify01: 當時看娘無落腹
+    4:
+      POJ: Kim-ji̍t nā-khòaⁿ nā khòe-ba̍k
+      original: 今日那看那過目
+      modify01: 今日若看若過目
+  43:
+    unkha: i
+    1:
+      POJ: Goe̍h-kì khai-hoa jû kim-hî
+      original: 月記開花如金魚
+      modify01: 月季開花如金魚
+    2:
+      POJ: Chuí-ke bô-bé bé chhiû-chhi
+      original: 水蛙不買買蟑螆
+      modify01: 水蛙不買買蟑螆
+    3:
+      POJ: A-hiahⁿ bô-sī gāng tōa ti
+      original: 阿兄不是戇大猪
+      modify01: 阿兄不是戇大豬
+    4:
+      POJ: Jī-chhit bô-bé bé cha̍p-sì
+      original: 二七不買買十四
+      modify01: 二七不買買十四
+  44:
+    unkha: iau
+    1:
+      POJ: Chhiū-bê khai-hoa pòaⁿ-mê-tiâu
+      original: 樹梅開花半冥朝
+      modify01: 樹梅開花半暝朝
+    2:
+      POJ: Uī niû kùa-tiàu thô-hoa sió
+      original: 為娘刈吊桃花小
+      modify01: 為娘掛吊桃花小
+    3:
+      POJ: Chi̍t-sî o-àm chē bē tiâu
+      original: 一時烏暗坐袂朝
+      modify01: 一時烏暗坐袂住
+    4:
+      POJ: Tó lo̍h chhông tiong ti̍t-liâu-liâu
+      original: 倒落床中直寮寮
+      modify01: 倒落床中直寮寮
+  45:
+    unkha: ian
+    1:
+      POJ: Sian-thô khai-hoa chāi pòaⁿ-thiⁿ
+      original: 仙桃開花在半天
+      modify01: 仙桃開花在半天
+    2:
+      POJ: Beh khòaⁿ chhú hoa tio̍h thiⁿ-sian
+      original: 卜看此花着天仙
+      modify01: 欲看此花著天仙
+    3:
+      POJ: Sī niû siàu-liân bô tóaⁿ-piàn
+      original: 是娘少年無轉變
+      modify01: 是娘少年無轉變
+    4:
+      POJ: Hō͘ ko hiau-khì bô kāng-iân
+      original: 乎哥僥去不皆然
+      modify01: 予哥僥去不皆然
+  46:
+    unkha: u
+    1:
+      POJ: Sông-chhiū khai-hoa kiat-siâⁿ chu
+      original: 松樹開花結成珠
+      modify01: 松樹開花結成珠
+    2:
+      POJ: Kah niû kau-pōe ū chiah kú
+      original: 恰娘交倍有即久
+      modify01: 佮娘交倍有遮久
+    3:
+      POJ: Tiân-hn̂g bē-khì sì gō͘ khu
+      original: 田園賣去四五坵
+      modify01: 田園賣去四五坵
+    4:
+      POJ: Iā chhun nī keng phòa chháu-chhù
+      original: 野伸二宮破草厝
+      modify01: 亦伸二間破草厝
+  47:
+    unkha: ang
+    1:
+      POJ: Sông-peh khai-hoa ē thó͘ hông
+      original: 松柏開花會吐黃
+      modify01: 松柏開花會吐黃
+    2:
+      POJ: A-ko khá-sîn tō ē gāng
+      original: 阿哥巧神都會戇
+      modify01: 阿哥巧神都會戇
+    3:
+      POJ: Sī lí chi̍t-sî sim hông-bâng
+      original: 是汝一時心荒忙
+      modify01: 是汝一時心慌忙
+    4:
+      POJ: Bē tiân bē chhù bô-thang kóng
+      original: 賣田賣厝不通廣
+      modify01: 賣田賣厝不通講
+  48:
+    unkha: ing
+    1:
+      POJ: Soāiⁿ-á khai-hoa tmá chhiū bîng
+      original: 檨仔開花滿樹明
+      modify01: 檨仔開花滿樹明
+    2:
+      POJ: Bô-hong bô-hō͘ khí kau-liông
+      original: 無風無雨起蛟龍
+      modify01: 無風無雨起蛟龍
+    3:
+      POJ: Niû-á beh hiau iōng-sim kiâⁿ
+      original: 娘仔卜僥用心行
+      modify01: 娘仔欲僥用心行
+    4:
+      POJ: Niáu-chhú khàu niau ké ū-chêng
+      original: 鳥鼠哭猫假有情
+      modify01: 鳥鼠哭貓假有情
+  49:
+    unkha: au
+    1:
+      POJ: To̍k-chiàm khai-hoa chāi soaⁿ-thâu
+      original: 獨占開花在山頭
+      modify01: 獨占開花在山頭
+    2:
+      POJ: Ko lí chi̍t-nî chi̍t-nî lāu
+      original: 哥汝一年一年老
+      modify01: 哥汝一年一年老
+    3:
+      POJ: Beh sī tng-chho cha̍p-peh káu
+      original: 卜是當初十八九
+      modify01: 欲是當初十八九
+    4:
+      POJ: Kiaⁿ bô súi-niû kah lí tà
+      original: 驚無水娘甲汝罩
+      modify01: 驚無水娘佮汝罩
+  50:
+    unkha: im
+    1:
+      POJ: Kùa-chhài khai-hoa ē thiu-sim
+      original: 芥菜開花會抽心
+      modify01: 芥菜開花會抽心
+    2:
+      POJ: Chhài-nâ thio chuí hō͘ ko chim
+      original: 菜藍挑水乎哥斟
+      modify01: 菜籃挑水予哥斟
+    3:
+      POJ: To sī kah ko pôaⁿ chhui-kím
+      original: 都是恰哥盤嘴錦
+      modify01: 都是佮哥盤嘴錦
+    4:
+      POJ: Bô-sī kah ko hó ji̍p-sim
+      original: 不是恰哥好入心
+      modify01: 不是佮哥好入心
+  51:
+    unkha: ang
+    1:
+      POJ: Âng-tek khai-hoa ta-ta-âng
+      original: 紅竹開花巢巢紅
+      modify01: 紅竹開花巢巢紅
+    2:
+      POJ: Ko lí kau-pōe ū pa̍t-lâng
+      original: 哥汝交倍有別人
+      modify01: 哥汝交倍有別人
+    3:
+      POJ: Sin-niû kau-lâi kū-niû phàng
+      original: 新娘交來舊娘放
+      modify01: 新娘交來舊娘放
+    4:
+      POJ: Ngiâ-sin khì-kū sing bô-thang
+      original: 迎新去舊先不通
+      modify01: 迎新去舊先不通
+  52:
+    unkha: o
+    1:
+      POJ: Bi̍t-lī khai-hoa peh-poh-poh
+      original: 茉莉開花白波波
+      modify01: 茉莉開花白波波
+    2:
+      POJ: Hūn ko ka-tiong chîⁿ to bô
+      original: 恨哥家中錢多無
+      modify01: 恨哥家中錢多無
+    3:
+      POJ: Góa kim kā niû seh-seh-lo̍h
+      original: 我今共娘說係落
+      modify01: 我今共娘說說落
+    4:
+      POJ: Chhú-khì bô-kán lâi chhit-thô
+      original: 此去不敢來勅桃
+      modify01: 此去不敢來𨑨迌
+  53:
+    unkha: ang
+    1:
+      POJ: Soaⁿ-tê khai-hoa móa soaⁿ âng
+      original: 山茶開花滿山紅
+      modify01: 山茶開花滿山紅
+    2:
+      POJ: Mn̄g-miâ ko-á ū-chîⁿ-lâng
+      original: 問名哥仔有錢人
+      modify01: 問名哥仔有錢人
+    3:
+      POJ: Chôan-bāng ko-á sio-thiàⁿ-thàng
+      original: 全望哥仔相痛疼
+      modify01: 全望哥仔相痛疼
+    4:
+      POJ: Thiàⁿ-thàng niû sin chhut-gōa-lâng
+      original: 痛疼娘身出外人
+      modify01: 痛疼娘身出外人
+  54:
+    unkha: ai
+    1:
+      POJ: Chuí-chhó khai-hoa chhim tiân-lāi
+      original: 水草開花深田內
+      modify01: 水草開花深田內
+    2:
+      POJ: Ín-sí bē hoah góa chin chai
+      original: 允死袂活我真知
+      modify01: 允死袂活我真知
+    3:
+      POJ: Sī niû sim-koaⁿ siūⁿ beh pháiⁿ
+      original: 是娘心肝想卜呆
+      modify01: 是娘心肝想欲歹
+    4:
+      POJ: Ko sin nā-siūⁿ nā bô-lâi
+      original: 哥身那想那不來
+      modify01: 哥身若想若不來
+  55:
+    unkha: ang
+    1:
+      POJ: Soaⁿ-io̍h khai-hoa chāi soaⁿ-niá
+      original: 山藥開花在山嶺
+      modify01: 山藥開花在山嶺
+    2:
+      POJ: Bûn-kóng khùn chāi Liú-chiu-siâⁿ
+      original: 文廣困在柳州城
+      modify01: 文廣困在柳州城
+    3:
+      POJ: Hō͘ ko sing hiau chi̍t-pái tiāⁿ
+      original: 乎哥先僥一擺定
+      modify01: 予哥先僥一擺定
+    4:
+      POJ: Siu-sim chia̍h-chhài beh hó-kiáⁿ
+      original: 修心食菜卜好子
+      modify01: 修心食菜欲好囝
+  56:
+    unkha: ian
+    1:
+      POJ: Hiok-hû khai-hoa ū chi̍t-chi
+      original: 旭孚開花有一枝
+      modify01: 旭孚開花有一枝
+    2:
+      POJ: Tōa-hâng thâu-ke góa chi̍u-sī
+      original: 大行頭家我就是
+      modify01: 大行頭家我就是
+    3:
+      POJ: Koh khì seng-lí nā hoat-tián
+      original: 閣去生理那發展
+      modify01: 閣去生理若發展
+    4:
+      POJ: Lī-chheng hō͘ niû phah kim-liān
+      original: 二千乎娘打金鍊
+      modify01: 二千予娘打金鍊
+  57:
+    unkha: au
+    1:
+      POJ: Han-chhiū khai-hoa sī lí-lâng
+      original: 番樹開花是李人
+      modify01: 番樹開花是俚人
+    2:
+      POJ: Phiàn gún lín-chhù leh khai-hâng
+      original: 騙阮恁厝塊開行
+      modify01: 騙阮恁厝塊開行
+    3:
+      POJ: Tí-sî lín bó͘ kah lâng tà
+      original: 值時恁某恰人罩
+      modify01: 值時恁某佮人罩
+    4:
+      POJ: Sǹg-lâi kiò lí o-ku-thâu
+      original: 算來叫汝烏歸頭
+      modify01: 算來叫汝烏龜頭
+  58:
+    unkha: ang
+    1:
+      POJ: Chí-tê khai-hoa soan khòe-niá
+      original: 紫籐開花宣過嶺
+      modify01: 紫藤開花蔓過嶺
+    2:
+      POJ: Siūⁿ beh kā niû phah tn̂g-kiâⁿ
+      original: 想卜甲娘打長行
+      modify01: 想欲甲娘打長行
+    3:
+      POJ: Niû lí pē-bó nā ū siaⁿ
+      original: 娘汝父母那有聲
+      modify01: 娘汝父母若有聲
+    4:
+      POJ: Lō͘-thâu khah hng ko kán kiâⁿ
+      original: 路頭恰遠哥敢行
+      modify01: 路頭較遠哥敢行
+  59:
+    unkha: ian
+    1:
+      POJ: Peh-khîng khai-hoa chāi siōng-thiⁿ
+      original: 白瓊開花在上天
+      modify01: 白瓊開花在上天
+    2:
+      POJ: Sam-kok chi̍t-chiòng sī Sun Kian
+      original: 三國一將是孫堅
+      modify01: 三國一將是孫堅
+    3:
+      POJ: Sī ko siàu-liân bô tóaⁿ-piàn
+      original: 是哥少年無轉變
+      modify01: 是哥少年無轉變
+    4:
+      POJ: Hō͘ ko bô bó͘ kah kāng-iân
+      original: 乎哥無某合皆然
+      modify01: 予哥無某合皆然
+  60:
+    unkha: i
+    1:
+      POJ: Peh-hap khai-hoa hiang chi̍t-mî
+      original: 百合開花香一冥
+      modify01: 百合開花香一暝
+    2:
+      POJ: Pòaⁿ-piah tiàu bah kái pa̍t-sí
+      original: 半壁吊肉犬拔死
+      modify01: 半壁吊肉犬拔死
+    3:
+      POJ: Góa niû seⁿ-súi kah ko-ì
+      original: 我娘生水甲哥意
+      modify01: 我娘生水合哥意
+    4:
+      POJ: Khòaⁿ ū chia̍h bô pēⁿ siong-si
+      original: 看有食無病想思
+      modify01: 看有食無病相思
+  61:
+    unkha: o
+    1:
+      POJ: Sia̍h-liû khai-hoa siâⁿ en-thô
+      original: 射榴開花成櫻桃
+      modify01: 石榴開花成櫻桃
+    2:
+      POJ: Tek-sún lī thô͘ siâⁿ tek-ko
+      original: 竹笋離土成竹篙
+      modify01: 竹筍離土成竹篙
+    3:
+      POJ: Lâng ê sio-hó tì oaⁿ-bō
+      original: 人个相好戴碗帽
+      modify01: 人个相好戴碗帽
+    4:
+      POJ: Khui gún sio-hó chò kho-lô
+      original: 虧阮相好做箍羅
+      modify01: 虧阮相好做箍羅
+  62:
+    unkha: ang
+    1:
+      POJ: Lo̍k-hiong khai-hoa thiⁿ-tíng hiang
+      original: 祿香開花天頂香
+      modify01: 陸香開花天頂香
+    2:
+      POJ: Kiô-thâu thó͘-tī ké lāu-lâng
+      original: 橋頭土地假老人
+      modify01: 橋頭土地假老人
+    3:
+      POJ: Hô͘-lî iau-chiâⁿ siok ji̍p khang
+      original: 狐狸妖精述入空
+      modify01: 狐狸妖精縮入空
+    4:
+      POJ: Pê hiahⁿ sîn-hûn sing bô-thang
+      original: 迷兄神魂先不通
+      modify01: 迷兄神魂先不通
+  63:
+    unkha: ing
+    1:
+      POJ: Khîng-nâ khai-hoa hiang iū chhiⁿ
+      original: 瓊林開花香又清
+      modify01: 瓊林開花香又清
+    2:
+      POJ: Ài tîⁿ súi-bó͘ bē tōa-teng
+      original: 愛纒水某賣大燈
+      modify01: 愛纏水某賣大燈
+    3:
+      POJ: Pē-bó seⁿ ko bô lâng-chîng
+      original: 父母生哥無人情
+      modify01: 父母生哥無人情
+    4:
+      POJ: Hō͘-lâng chò chí bián chhiⁿ-sim
+      original: 乎人做子免清心
+      modify01: 予人做子免清心
+  64:
+    unkha: io
+    1:
+      POJ: Khu-siông khai-hoa hio̍h khah sió
+      original: 枯祥開花葉恰小
+      modify01: 枯祥開花葉較小
+    2:
+      POJ: Chhài Tuan khì chō Lo̍k-iông-kiô
+      original: 蔡端去造洛陽橋
+      modify01: 蔡端去造洛陽橋
+    3:
+      POJ: Niû lí hiau ko lâng ài chhiò
+      original: 娘汝僥哥人愛笑
+      modify01: 娘汝僥哥人愛笑
+    4:
+      POJ: Gún-chhù kong-pô ū chóa sio
+      original: 阮厝公婆有紙燒
+      modify01: 阮厝公婆有紙燒
+  65:
+    unkha: o
+    1:
+      POJ: Chhài-thâu khai-hoa chin-chiàⁿ khó͘
+      original: 菜頭開花真正苦
+      modify01: 菜頭開花真正苦
+    2:
+      POJ: Kiat-chí giân-lâi teng lo̍h thô͘
+      original: 結子原來釘落塗
+      modify01: 結子原來釘落土
+    3:
+      POJ: Hō͘ ko sing hiau beh síng-pō͘
+      original: 乎哥先僥卜省步
+      modify01: 予哥先僥欲省步
+    4:
+      POJ: Chài soán sin-kun ū khah so
+      original: 再選新君有恰蘇
+      modify01: 再選新君有較蘇
+  66:
+    unkha: o
+    1:
+      POJ: Chi-lân khai-hoa hiang kah hó
+      original: 芝蘭開花香甲好
+      modify01: 芝蘭開花香甲好
+    2:
+      POJ: Niû-á lín-chhù ū sin-ko
+      original: 娘仔恁厝有新哥
+      modify01: 娘仔恁厝有新哥
+    3:
+      POJ: Lī-lâng sio-hó tiàu-hî-chho͘
+      original: 二人相好釣魚糙
+      modify01: 二人相好釣魚簄
+    4:
+      POJ: Bô-chai siáⁿ-lâng tāi-sing bô
+      original: 不知省人大先無
+      modify01: 不知啥人大先無
+  67:
+    unkha: an
+    1:
+      POJ: Chí-keng khai-hoa sin uan-uan
+      original: 紫荊開花身灣灣
+      modify01: 紫荊開花身灣灣
+    2:
+      POJ: Hō͘ ko hiau-khì tōa bô-goān
+      original: 乎哥僥去大不愿
+      modify01: 予哥僥去大不願
+    3:
+      POJ: Lī-ba̍k kim-kim chài koh soán
+      original: 二目金金再閣選
+      modify01: 二目金金再閣選
+    4:
+      POJ: Sng-pí hiahⁿ-ko khah hó-khóan
+      original: 拴比兄哥恰好欵
+      modify01: 算比兄哥較好款
+  68:
+    unkha: am
+    1:
+      POJ: Kiat-á khai-hoa kiat-siâⁿ kam
+      original: 桔仔開花結成柑
+      modify01: 桔仔開花結成柑
+    2:
+      POJ: Kî-koaⁿ kâi-khí sī âng-saⁿ
+      original: 旗干竪起是紅杉
+      modify01: 旗竿豎起是紅衫
+    3:
+      POJ: Kah niû chò-hóe chi̍t-bòaⁿ àm
+      original: 恰娘做伙一半暗
+      modify01: 佮娘做伙一半暗
+    4:
+      POJ: Chiat-sàn in-iân siáⁿ-lâng kam
+      original: 折散姻緣省人甘
+      modify01: 折散姻緣啥人甘
+  69:
+    unkha: ang
+    1:
+      POJ: Chhiu-khuî khai-hoa hio̍h iū âng
+      original: 秋葵開花葉又紅
+      modify01: 秋葵開花葉又紅
+    2:
+      POJ: Hiahⁿ-ko nā-bô chōe pa̍t-lâng
+      original: 兄哥那不尋別人
+      modify01: 兄哥若不尋別人
+    3:
+      POJ: Iâⁿ góa sam-hun bô-bián kóng
+      original: 營我三分不免講
+      modify01: 贏我三分不免講
+    4:
+      POJ: Iâⁿ góa cha̍p-hun lí chiah thang
+      original: 營我十分汝即通
+      modify01: 贏我十分汝才通
+  70:
+    unkha: ing
+    1:
+      POJ: Hó͘-hī khai-hoa sek hun-bîng
+      original: 虎耳開花色分明
+      modify01: 虎耳開花色分明
+    2:
+      POJ: Tēng-nî niû-á tio̍h chièng-king
+      original: 叮嚀娘仔着正經
+      modify01: 叮嚀娘仔著正經
+    3:
+      POJ: Pa̍t-lâng khah-hó bô-lō͘-iōng
+      original: 別人恰好無路用
+      modify01: 別人較好無路用
+    4:
+      POJ: Bô-pí lí góa chiah chin-chîng
+      original: 不比汝我即真情
+      modify01: 不比汝我才真情
+  71:
+    unkha: o
+    1:
+      POJ: Peh-chu̍t khai-hoa khì un-hô
+      original: 白朮開花氣溫和
+      modify01: 白朮開花氣溫和
+    2:
+      POJ: Ko-á bô-hiâm lâi chhit-thô
+      original: 哥仔無嫌來𨑨迌
+      modify01: 哥仔無嫌來𨑨迌
+    3:
+      POJ: Chin-miâ chièng-sèng kā ko pò
+      original: 真名正姓共哥報
+      modify01: 真名正姓共哥報
+    4:
+      POJ: Góa miâ kiò-chò phong-liû-pô
+      original: 我名叫做風流婆
+      modify01: 我名叫做風流婆
+  72:
+    unkha: un
+    1:
+      POJ: Tang-koe khai-hoa peh jû ûn
+      original: 冬瓜開花白如雲
+      modify01: 冬瓜開花白如雲
+    2:
+      POJ: Bāng-beh niû-á khan-siâⁿ kun
+      original: 望卜娘仔牽成君
+      modify01: 望欲娘仔牽成君
+    3:
+      POJ: Khan-siâⁿ kun sin nā chhut-ūn
+      original: 牽成君身那出運
+      modify01: 牽成君身若出運
+    4:
+      POJ: Bô-kán chûn khòe chuí bô hûn
+      original: 不敢船過水無痕
+      modify01: 不敢船過水無痕
+  73:
+    unkha: iu
+    1:
+      POJ: Kû-be̍h khai-hoa kiat siù-kiû
+      original: 崔麥開花結綉球
+      modify01: 瞿麥開花結繡球
+    2:
+      POJ: Ki-hāi bē tāng tio̍h chia̍h-iû
+      original: 機械袂重着食油
+      modify01: 機械袂重著食油
+    3:
+      POJ: Kau-tio̍h pháiⁿ-ang choân bô-kiù
+      original: 交着呆尫全無救
+      modify01: 交著歹尫全無救
+    4:
+      POJ: Chhin-chhiūⁿ sí-chôa hoah-bóe-chhiuh
+      original: 親像死蛇活尾鰍
+      modify01: 親像死蛇活尾鰍
+  74:
+    unkha: ai
+    1:
+      POJ: Kuì-jîm khai-hoa ū chi̍t-pâi
+      original: 桂荏開花有一排
+      modify01: 桂荏開花有一排
+    2:
+      POJ: Niû lí bē tōa bô-thang pháiⁿ
+      original: 娘汝未大不通呆
+      modify01: 娘汝未大不通歹
+    3:
+      POJ: Sió-chûn put-kham hā tiōng-chāi
+      original: 小船不堪下重載
+      modify01: 小船不堪下重載
+    4:
+      POJ: Nā bē piàn-kut lí chi̍u chai
+      original: 那袂變骨汝就知
+      modify01: 若袂變骨汝就知道
+  75:
+    unkha: ang
+    1:
+      POJ: Hô-kû khai-hoa siâⁿ phâng-hong
+      original: 荷蕖開花成防風
+      modify01: 荷蕖開花成防風
+    2:
+      POJ: Tāi-it máng-chiòng sī Kuan-kong
+      original: 第一猛將是關公
+      modify01: 第一猛將是關公
+    3:
+      POJ: Uī ko siong-si sim tian-gāng
+      original: 為哥想思心顛戇
+      modify01: 為哥相思心顛戇
+    4:
+      POJ: Chhin-chhiūⁿ Se-shi ài Gô͘-ông
+      original: 親像西施愛吳王
+      modify01: 親像西施愛吳王
+  76:
+    unkha: ang
+    1:
+      POJ: Peh-chó khai-hoa chiah-kú âng
+      original: 白棗開花只久紅
+      modify01: 白棗開花遮久紅
+    2:
+      POJ: Sîn-hûn hō͘ niû pê lo̍h káng
+      original: 神魂乎娘迷落港
+      modify01: 神魂予娘迷落港
+    3:
+      POJ: Hó-chuí kiû niû tio̍h kín phàng
+      original: 好嘴求娘着緊放
+      modify01: 好嘴求娘著緊放
+    4:
+      POJ: Pē-bó tan-seⁿ gún chi̍t-lâng
+      original: 父母單生阮一人
+      modify01: 父母單生阮一人
+  77:
+    unkha: an
+    1:
+      POJ: Kùa-chhài khai-hoa siâⁿ kî-koaⁿ
+      original: 芥菜開花成旗干
+      modify01: 芥菜開花成旗竿
+    2:
+      POJ: Uī ko siong-si io̍h siông chian
+      original: 為哥想思藥常煎
+      modify01: 為哥相思藥常煎
+    3:
+      POJ: Bô-sìn thut-saⁿ hō͘ kun khòaⁿ
+      original: 不信脫衫乎君看
+      modify01: 不信脫衫予君看
+    4:
+      POJ: Siau-sán lo̍h-bah piàn lâng-taⁿ
+      original: 消產落肉變人干
+      modify01: 消產落肉變人乾
+  78:
+    unkha: un
+    1:
+      POJ: Sng-chó khai-hoa sin kng-kng
+      original: 酸棗開花身光光
+      modify01: 酸棗開花身光光
+    2:
+      POJ: Chia̍h ji̍p chuí-lāi chin-chiàⁿ sng
+      original: 食入嘴內真正酸
+      modify01: 食入嘴內真正酸
+    3:
+      POJ: Ko sin kah niû lō͘ beh toān
+      original: 哥身恰娘路卜斷
+      modify01: 哥身佮娘路欲斷
+    4:
+      POJ: Bô-kú beh tńg gún ka-mn̂g
+      original: 不久卜返阮家門
+      modify01: 不久欲返阮家門
+  79:
+    unkha: ang
+    1:
+      POJ: Pô͘-liú khai-hoa chi-chi tn̂g
+      original: 蒲柳開花枝枝長
+      modify01: 蒲柳開花枝枝長
+    2:
+      POJ: Thiaⁿ ko lí soeh sim-thâu sng
+      original: 听哥汝說心頭酸
+      modify01: 聽哥汝說心頭酸
+    3:
+      POJ: Thiaⁿ-soeh ko-chhù tòa Sin-chhiang
+      original: 听說哥厝帶新庄
+      modify01: 聽說哥厝蹛新庄
+    4:
+      POJ: Gún beh kā ko sio chhú tńg
+      original: 阮卜甲哥相娶返
+      modify01: 阮欲甲哥相娶返
+  80:
+    unkha: ang
+    1:
+      POJ: Eng-mûi khai-hoa hio̍h chhiⁿ-hâng
+      original: 英梅開花葉青黃
+      modify01: 櫻梅開花葉青黃
+    2:
+      POJ: To-siā niû-á kā gún tńg
+      original: 多謝娘仔甲阮返
+      modify01: 多謝娘仔甲阮返
+    3:
+      POJ: Bô-hiâm chuí-liō lō͘-thâu hng
+      original: 無嫌水陸路頭遠
+      modify01: 無嫌水陸路頭遠
+    4:
+      POJ: Chiah thang kā gún hôe Sin-chhiang
+      original: 即通甲阮囘新庄
+      modify01: 才通甲阮囘新庄
+  81:
+    unkha: iu
+    1:
+      POJ: Tē-hông khai-hoa kiat kui-kiû
+      original: 地黃開花結歸球
+      modify01: 地黃開花結歸球
+    2:
+      POJ: Hiahⁿ-māi beh tńg kín liu-liu
+      original: 兄妹卜返緊鰍鰍
+      modify01: 兄妹欲返緊溜溜
+    3:
+      POJ: Sì-àm gō͘-ji̍t chàu Chôaⁿ-chiu
+      original: 四暗五日到泉州
+      modify01: 四暗五日到泉州
+    4:
+      POJ: Sio-hó kiat-hap éng tiân-liû
+      original: 相好結合永傳流
+      modify01: 相好結合永傳流
