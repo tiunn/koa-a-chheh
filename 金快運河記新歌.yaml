@@ -1,0 +1,334 @@
+---
+kind: 歌仔冊
+
+metadata:
+  title: "金快運河記新歌"
+  author: "戴三奇"
+  year: 1935
+  publisher: "玉珍漢書部"
+
+lyrics:
+  1:
+    unkha: i
+    1:
+      POJ: Liām-chhut Tâi-lâm ūn-hô kì
+      original: 念出台南運河記
+      modify01: 唸出台南運河記
+    2:
+      POJ: Góa kā lia̍t-ūi seng thong-ti
+      original: 我共列位先通知
+      modify01: 我共列位先通知
+    3 :
+      POJ: Khah-chá sin-bûn ū kóng-khí
+      original: 較早新聞有講起
+      modify01: 較早新聞有講起
+    4:
+      POJ: Ūi-tio̍h ài-chêng kui im-si
+      original: 為着愛情歸陰司
+      modify01: 為着愛情歸陰司
+  2:
+    unkha: ian
+    1:
+      POJ: Hiān-sî sî-ki chiām-chiām piàn
+      original: 現時時枝暫暫變
+      modify01: 現時時機漸漸變
+    2:
+      POJ: Mih hāng koa-si ū-lâng pian
+      original: 乜項歌詩有人編
+      modify01: 乜項歌詩有人編
+    3:
+      POJ: Beh pian Tâi-lâm ê kó͘-tián
+      original: 卜編台南个古曲
+      modify01: 欲編台南个古典
+    4:
+      POJ: Pēng-bô pòaⁿ-kù ê hi-giân
+      original: 並無半句个虛言
+      modify01: 並無半句个虛言
+  3:
+    unkha: i
+    1:
+      POJ: Sió-tī tòa-tī Tâi-pak chhī
+      original: 小弟帶在台北市
+      modify01: 小弟蹛佇台北市
+    2:
+      POJ: Góa miâ kiò-chò Tè Sam-kî
+      original: 我名呌做戴三奇
+      modify01: 我名叫做戴三奇
+    3:
+      POJ: Beh-chò chit-pún ūn-hô kì
+      original: 卜做只本運河記
+      modify01: 欲做這本運河記
+    4:
+      POJ: Góa miâ kiò-chò Tè Sam-kî
+      original: 我名呌做戴三奇
+      modify01: 我名叫做戴三奇
+  4:
+    unkha: ian
+    1:
+      POJ: Ūn-hô pa̍t-lâng ia̍h-ū pian
+      original: 運河別人也有編
+      modify01: 運河別人亦有編
+    2:
+      POJ: Kù-tāu choân-bô sì-kù-liân
+      original: 句豆全無四句連
+      modify01: 句讀全無四句連
+    3:
+      POJ: Hó-bái lín mā khòaⁿ hiān-hiān
+      original: 好歹恁罵看現現
+      modify01: 好䆀恁嘛看現現
+    4:
+      POJ: Chit-chi̍p ia̍h-ū khah sin-ian
+      original: 只集野有恰新煙
+      modify01: 這集亦有較新嫣
+  5:
+    unkha: un
+    1:
+      POJ: Kim-khoài khah-chá tǹg Bān-sūn
+      original: 金快恰早當萬順
+      modify01: 金快較早當萬順
+    2:
+      POJ: Tāi-seng kā theh cha̍p kho͘ gîn
+      original: 代先共提拾圓銀
+      modify01: 代先共提拾箍銀
+    3:
+      POJ: Tǹg lâi beh-chò phòa-pēⁿ pún
+      original: 當來卜做破病本
+      modify01: 當來欲做破病本
+    4:
+      POJ: Ka-chài chhut tio̍h hó kiáⁿ-sun
+      original: 皆再出着好子孫
+      modify01: 佳哉出着好子孫
+  6:
+    unkha: i
+    1:
+      POJ: Kim-khoài chhut-sì bái peh-jī
+      original: 金快出世呆八字
+      modify01: 金快出世䆀八字
+    2:
+      POJ: Chiah ē tú-tio̍h pháiⁿ sî-ki
+      original: 即下拄着呆時機
+      modify01: 才會拄着歹時機
+    3:
+      POJ: Bān-sūn in bó͘ chin pháiⁿ-sí
+      original: 萬順因某真呆死
+      modify01: 萬順𪜶某真歹死
+    4:
+      POJ: Bé-chhài kā-i sit-lo̍h chîⁿ
+      original: 買菜共伊失落錢
+      modify01: 買菜共伊失落錢
+  7:
+    unkha: o͘
+    1:
+      POJ: Tú-hó hit-ji̍t iâⁿ Má-chó͘
+      original: 拄好喜日迎媽祖
+      modify01: 拄好彼日迎媽祖
+    2:
+      POJ: Chē tī thô͘-kha khàu kui-po͘
+      original: 坐著土脚哭歸埔
+      modify01: 坐著土脚哭規晡
+    3:
+      POJ: Lâi kah Khai-jī sio tú lō͘
+      original: 來甲開字相拄路
+      modify01: 來佮開字相拄路
+    4:
+      POJ: Ngô͘ sáng chiah chō͘ gîn gō͘ kho͘
+      original: 吳樣即助銀五圓
+      modify01: 吳桑才助銀五箍
+  8:
+    unkha: i
+    1:
+      POJ: Chhú jîn hō-chò Ngô͘ Khai-jī
+      original: 此人呌做吳開字
+      modify01: 此人號做吳開字
+    2:
+      POJ: Chiah kah Kim-khuài i sio-sî
+      original: 即甲金快伊相辭
+      modify01: 才佮金快伊相辭
+    3:
+      POJ: Tńg-khì in chhù lâi kóng-khí
+      original: 返去因厝來講起
+      modify01: 返去𪜶厝來講起
+    4:
+      POJ: In pē lâi sí chiâⁿ bô-gî
+      original: 因爸來死成無宜
+      modify01: 𪜶爸來死成無疑
+  9:
+    unkha: e
+    1:
+      POJ: Khòaⁿ-kìⁿ pē sí chiah goān kè
+      original: 看見爸死即愿嫁
+      modify01: 看見爸死才願嫁
+    2:
+      POJ: Hiah-nī iú-hàu bô kúi-ê
+      original: 即年有孝無几个
+      modify01: 遮爾有孝無幾个
+    3:
+      POJ: Hō͘-lâng phiàn ji̍p ian-hoa té
+      original: 乎人片入烟花底
+      modify01: 予人騙入煙花底
+    4:
+      POJ: Bē-chîⁿ chòng hū chiông ta-ke
+      original: 賣錢葬父從乾家
+      modify01: 賣錢葬父從大家
+  10:
+    unkha: o
+    1:
+      POJ: Ōe-sái kàu-chiah chún tú-hó
+      original: 話屎到者準拄好
+      modify01: 話屎到遮準拄好
+    2:
+      POJ: Pí i Sūi-sêng khah jió-toh
+      original: 比伊瑞成恰尿刀
+      modify01: 比伊瑞成較尿刀
+    3:
+      POJ: M̄-sìn the̍h-lâi kā i khó
+      original: 不信提來甲伊考
+      modify01: 不信提來共伊考
+    4:
+      POJ: Kim-khoài siūⁿ-tio̍h sim-koaⁿ cho
+      original: 金快想着心肝嘈
+      modify01: 金快想着心肝慒
+  11:
+    unkha: iⁿ,i
+    1:
+      POJ: Pī lâng phiàn lâi ian-hoa īⁿ
+      original: 被人片來烟花院
+      modify01: 被人片來煙花院
+    2:
+      POJ: Góa tiō siū-khó͘ chiâⁿ cha̍p-nî
+      original: 我着受苦成十年
+      modify01: 我就受苦誠十年
+    3:
+      POJ: Hūn lâi hūn khì hūn chū-kí
+      original: 恨來恨去恨自己
+      modify01: 恨來恨去恨自己
+    4:
+      POJ: Chū-hūn pô niû ba̍k chhiⁿ-mî
+      original: 自恨婆娘目青瞑
+      modify01: 自恨婆娘目青瞑
+  12:
+    unkha: ang
+    1:
+      POJ: Kim-khoài siūⁿ-tio̍h chiah chai chhám
+      original: 金快想着即知慘
+      modify01: 金快想着才知慘
+    2:
+      POJ: Hūn góa pháiⁿ-miā kè bô ang
+      original: 恨我呆命嫁無尫
+      modify01: 恨我歹命嫁無尫
+    3:
+      POJ: Thàn-chia̍h nn̄g-jī bô ún-tàng
+      original: 趁食二字無允凍
+      modify01: 趁食二字無穩當
+    4:
+      POJ: Hó bé pa̍k chāi sí chhiū-châng
+      original: 好馬縳在死樹欉
+      modify01: 好馬縳在死樹欉
+  13:
+    unkha: in
+    1:
+      POJ: Ian-hoa chhin-chhiūⁿ bê-hûn-tīn
+      original: 烟花親象迷魂陣
+      modify01: 煙花親像迷魂陣
+    2:
+      POJ: Siūⁿ-kìⁿ thàn-chia̍h chin khó͘-lîn
+      original: 想見趁食真苦憐
+      modify01: 想見趁食真苦憐
+    3:
+      POJ: Put-sî sim-koaⁿ teh oàn-hīn
+      original: 不時心肝塊怨恨
+      modify01: 不時心肝塊怨恨
+    4:
+      POJ: Tī-sî chiah-ē thoat-lī sin
+      original: 著時即能脫離身
+      modify01: 著時才會脫離身
+  14:
+    unkha: au
+    1:
+      POJ: Nî-kú goe̍h-chhim oh tán-hāu
+      original: 年久月深難等候
+      modify01: 年久月深僫等候
+    2:
+      POJ: Chhin-chhiūⁿ tūn-to koah ian-âu
+      original: 親象屯刀刈咽喉
+      modify01: 親像鈍刀割咽喉
+    3:
+      POJ: Chhut-lâi khiā tī mn̂g-kha-kháu
+      original: 出來竪治門脚口
+      modify01: 出來徛佇門跤口
+    4:
+      POJ: Siūⁿ-tio̍h sim-sng ba̍k-sái lâu
+      original: 想着心酸目屎流
+      modify01: 想着心酸目屎流
+  15:
+    unkha: i
+    1:
+      POJ: Chit-chām kàu-chia chhiá thêng-chí
+      original: 只漸到者且停止
+      modify01: 這站到遮且停止
+    2:
+      POJ: Kim-khoài tit-beh chhut-thâu-thiⁿ
+      original: 金快得卜出頭天
+      modify01: 金快得欲出頭天
+    3:
+      POJ: Ē kah Ngô͘ sáng thang saⁿ-kìⁿ
+      original: 能甲吳樣通相見
+      modify01: 會佮吳桑通相見
+    4:
+      POJ: Thiⁿ-sò͘ hō͘-lâng sóa bē î
+      original: 天數乎人所袂移
+      modify01: 天數予人徙袂移
+  16:
+    unkha: iaⁿ
+    1:
+      POJ: Khí-thâu chho͘-chho͘ o̍h pháiⁿ-kiáⁿ
+      original: 起頭初初學呆子
+      modify01: 起頭初初學歹囝
+    2:
+      POJ: M̄-bat chhit-thô iū kiaⁿ-kiaⁿ
+      original: 不識𨑨迌又驚驚
+      modify01: 毋捌𨑨迌又驚驚
+    3:
+      POJ: Lâi-kàu Sin-teng chiah chai-iáⁿ
+      original: 來到新町即知影
+      modify01: 來到新町才知影
+    4:
+      POJ: Giâ-thâu khòaⁿ-kìⁿ Lí chheng hiaⁿ
+      original: 夯頭看見李清兄
+      modify01: 夯頭看見李清兄
+  17:
+    unkha: ng
+    1:
+      POJ: Chi̍t tīn pêng-iú lâi kā mn̄g
+      original: 一陣朋友來共問
+      modify01: 一陣朋友來共問
+    2:
+      POJ: Tē-it hán-kiâⁿ sī e-hng
+      original: 第一罕行是下暗
+      modify01: 第一罕行是下昏
+    3:
+      POJ: Tú-chhian ta̍k-ke lâi sio-tn̄g
+      original: 拄千大家來相斷
+      modify01: 拄千逐家來相撞
+    4:
+      POJ: Kui-tīn kiâⁿ-ji̍p kim hoe-hn̂g
+      original: 歸陣行入金花園
+      modify01: 規陣行入金花園
+  18:
+    unkha: ai
+    1:
+      POJ: Kim-khoài tú-teh chhit ba̍k-sái
+      original: 金快拄著七目屎
+      modify01: 金快拄塊拭目屎
+    2:
+      POJ: Khòaⁿ-tio̍h chi̍t tīn lâng-kheh lâi
+      original: 看著一陣人客來
+      modify01: 看著一陣人客來
+    3:
+      POJ: Kóaⁿ-kín kiâⁿ-ji̍p pâng-keng lāi
+      original: 赶緊走入房間內
+      modify01: 趕緊行入房間內
+    4:
+      POJ: Gōa-kháu cha-bó͘ chē kui-pâi
+      original: 外口查某坐歸排
+      modify01: 外口查某坐規排
