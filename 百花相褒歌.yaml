@@ -39,7 +39,7 @@ lyrics:
       original: 斟酌皆听即有準
       modify01: 斟酌皆聽才有準
     4:
-      POJ: Îng-ōe m̄-bián kóng kui tun
+      POJ: Êng-ōe m̄-bián kóng kui tun
       original: 榮話不免廣歸墩
       modify01: 閒話毋免講規墩
   3:
@@ -82,47 +82,47 @@ lyrics:
   5:
     unkha: i
     1:
-      POJ: Hû-iông khai-hoa ē kiat-chí
+      POJ: Phû-iông khui-hoe ē kiat-chí
       original: 芙蓉開花會結子
       modify01: 芙蓉開花會結子
     2:
-      POJ: Kam-goān kā hiahⁿ kiat peh-nî
+      POJ: Kam-goān kah hiaⁿ kiat pah-nî
       original: 甘愿共兄結百年
-      modify01: 甘願共兄結百年
+      modify01: 甘願佮兄結百年
     3:
-      POJ: Siâng-lâng hiau-sim lûi tán-sí
+      POJ: Siáⁿ-lâng hiau-sim lûi phah-sí
       original: 誰人僥心雷打死
-      modify01: 誰人僥心雷打死
+      modify01: 誰人僥心雷拍死
     4:
-      POJ: Tāi-sing hiau-sim lō͘-pāng-si
+      POJ: Tāi-seng hiau-sim lō͘-pông-si
       original: 代先僥心路傍屍
-      modify01: 代先僥心路傍屍
+      modify01: 代先僥心路旁屍
   6:
     unkha: ang
     1:
-      POJ: Liân-chí khai-hoa chi̍t-tiám âng
+      POJ: Liân-chí khui-hoe chi̍t-tiám âng
       original: 蓮子開花一点紅
       modify01: 蓮子開花一點紅
     2:
-      POJ: Chôan-bāng niû-chí sio-thiàⁿ-thàng
+      POJ: Chôan-bāng niû-á sio-thiàⁿ-thàng
       original: 全望娘子相痛疼
-      modify01: 全望娘子相痛疼
+      modify01: 全望娘仔相痛疼
     3:
-      POJ: Sio-hāi niû-chí chóng bô-thang
+      POJ: Siong-hāi niû-á chóng m̄-thang
       original: 相害娘子總不通
-      modify01: 相害娘子總不通
+      modify01: 傷害娘仔總毋通
     4:
-      POJ: Tāi-liām kun sin chhut-gōa-lâng
+      POJ: Tài-liām kun sin chhut-gōa-lâng
       original: 代念君身出外人
       modify01: 代念君身出外人
   7:
-    unkha: ang
+    unkha: [ang, oaⁿ]
     1:
-      POJ: Eng-jiáu khai-hoa chiàⁿ chhiⁿ-hiang
+      POJ: Eng-jiáu khui-hoe chiàⁿ chheng-phang
       original: 櫻爪開花正清香
-      modify01: 鷹爪開花正清香
+      modify01: 鷹爪開花正清芳
     2:
-      POJ: Tng-kim chhut-ū hiau-hiông-lâng
+      POJ: Tong-kim chhut-ū hiau-hiông-lâng 
       original: 當今出有僥雄人
       modify01: 當今出有僥雄人
     3:
@@ -130,67 +130,67 @@ lyrics:
       original: 有僥無僥無塊看
       modify01: 有僥無僥無塊看
     4:
-      POJ: Koek-lâng chhiu-chhiú mo sim-koaⁿ
+      POJ: Kok-lâng chhun-chhiú bong sim-koaⁿ
       original: 各人伸手摸心肝
       modify01: 各人伸手摸心肝
   8:
-    unkha: ing
+    unkha: eng
     1:
-      POJ: Ji̍t-khuî khai-hoa hiòng tang-pêng
+      POJ: Ji̍t-khuî khui-hoe ǹg tang-pêng
       original: 日葵開花向東平
-      modify01: 日葵開花向東平
+      modify01: 日葵開花向東爿
     2:
-      POJ: Bô-gî niû-chí chiah choat-chêng
+      POJ: Bô-gî niû-á chiah choat-chêng
       original: 無疑娘子即絕情
-      modify01: 無疑娘子才絕情
+      modify01: 無疑娘仔即絕情
     3:
-      POJ: Chá-ji̍t nā-chai chi̍u mài in
+      POJ: Chá-ji̍t nā-chai tio̍h mài èng
       original: 早日那知就勿應
-      modify01: 早日若知就莫應
+      modify01: 早日若知著覅應
     4:
-      POJ: Hùi-lió sim-sîn chin bô-bîng
+      POJ: Hùi liáu sim-sîn chin put-bêng
       original: 費了心神真不明
       modify01: 費了心神真不明
   9:
     unkha: i
     1:
-      POJ: Bo̍k-pit khai-hoa ū chi̍t-chi
+      POJ: Bo̍k-pit khui-hoe ū chi̍t-ki
       original: 木筆開花有一枝
       modify01: 木筆開花有一枝
     2:
-      POJ: Khòaⁿ ko seⁿ-chhiâⁿ chin bûn-lí
+      POJ: Khòaⁿ ko seⁿ-chiâⁿ chin bûn-lí
       original: 看哥生成真文理
       modify01: 看哥生成真文理
     3:
-      POJ: Khah-iâⁿ Phuaⁿ An chài chhut-sì
+      POJ: Khah-iâⁿ Phoaⁿ-an chài chhut-sì
       original: 恰營潘安再出世
       modify01: 較贏潘安再出世
     4:
-      POJ: Hāi gún si-sióng cha̍p-jī-sî
+      POJ: Hāi gún si-siōⁿ cha̍p-jī-sî
       original: 害阮思想十二時
       modify01: 害阮思想十二時
   10:
     unkha: in
     1:
-      POJ: Hō͘-sòaⁿ khai-hoa îⁿ-ní-ní
+      POJ: Hō͘-sòaⁿ khui-hoe îⁿ-lìn-lìn
       original: 雨傘開花員乳乳
-      modify01: 雨傘開花圓乳乳
+      modify01: 雨傘開花圓輾輾
     2:
-      POJ: Chhiú gia̍h hō͘-sòaⁿ kò͘ niû sin
+      POJ: Chhiú giâ hō͘-sòaⁿ kò͘ niû sin
       original: 手夯雨傘顧娘身
       modify01: 手夯雨傘顧娘身
     3:
-      POJ: Chi̍t-sî bô-khòaⁿ niû-chí bīn
+      POJ: Chi̍t-sî bô-khòaⁿ niû-á bīn
       original: 一時無看娘子面
-      modify01: 一時無看娘子面
+      modify01: 一時無看娘仔面
     4:
-      POJ: Kut-thâu thàng-thiàⁿ bē pan-sin
+      POJ: Kut-thâu thàng-thiàⁿ bē hoan-sin
       original: 骨頭疼痛袂翻身
       modify01: 骨頭疼痛袂翻身
   11:
     unkha: e
     1:
-      POJ: Hâng-chiok khai-hoa hó chò-tê
+      POJ: Hâng-chiok khui-hoe hó chò-tê
       original: 杭菊開花好做茶
       modify01: 杭菊開花好做茶
     2:
@@ -208,7 +208,7 @@ lyrics:
   12:
     unkha: iu
     1:
-      POJ: Hiang-iûⁿ khai-hoa siâⁿ hut-chhió
+      POJ: Hiang-iûⁿ khui-hoe siâⁿ hut-chhió
       original: 香楊開花成佛手
       modify01: 香楊開花成佛手
     2:
@@ -220,13 +220,13 @@ lyrics:
       original: 是乜重誓咱來咒
       modify01: 是乜重誓咱來咒
     4:
-      POJ: Sing hiau ê lâng chōe tio̍h siu
+      POJ: Seng hiau ê lâng chōe tio̍h siu
       original: 先僥个人罪着收
       modify01: 先僥个人罪著收
   13:
     unkha: im
     1:
-      POJ: Pông-lâi khai-hoa chāi sian-kíng
+      POJ: Pông-lâi khui-hoe chāi sian-kéng
       original: 𦬬萊開花在仙境
       modify01: 蓬萊開花在仙境
     2:
@@ -244,15 +244,15 @@ lyrics:
   14:
     unkha: iu
     1:
-      POJ: Ge̍h-kuí khai-hoa sī tiong-chhiu
+      POJ: Ge̍h-kuí khui-hoe sī tiong-chhiu
       original: 月桂開花是中秋
       modify01: 月桂開花是中秋
     2:
-      POJ: Sio-hó bô-kau kau pîng-iú
+      POJ: Sio-hó bô-kau kau pêng-iú
       original: 相好不交交朋友
       modify01: 相好不交交朋友
     3:
-      POJ: Pîng-iú lo̍h-nān sio kái-kiù
+      POJ: Pêng-iú lo̍h-nān sio kái-kiù
       original: 朋友落難相改救
       modify01: 朋友落難相解救
     4:
@@ -262,7 +262,7 @@ lyrics:
   15:
     unkha: ian
     1:
-      POJ: Hông-tê khai-hoa chāi se-thiⁿ
+      POJ: Hông-tê khui-hoe chāi se-thiⁿ
       original: 黃茶開花在西天
       modify01: 黃茶開花在西天
     2:
@@ -280,7 +280,7 @@ lyrics:
   16:
     unkha: u
     1:
-      POJ: Iâu-kian khai-hoa sian-soaⁿ ū
+      POJ: Iâu-kian khui-hoe sian-soaⁿ ū
       original: 瑤根開花仙山有
       modify01: 瑤根開花仙山有
     2:
@@ -288,9 +288,9 @@ lyrics:
       original: 番船過海半沉浮
       modify01: 番船過海半沉浮
     3:
-      POJ: Bī-tsai niû-chí tòa hē-chhù
+      POJ: Bī-tsai niû-á tòa hē-chhù
       original: 未知娘子帶下厝
-      modify01: 未知娘子蹛下厝
+      modify01: 未知娘仔蹛下厝
     4:
       POJ: Khah-chám hō͘ niû pê-tio̍h hû
       original: 恰慘乎娘迷着符
@@ -316,7 +316,7 @@ lyrics:
   18:
     unkha: ian
     1:
-      POJ: Ge̍h-hiang khai-hoa hiang thàu-thiⁿ
+      POJ: Ge̍h-hiang khui-hoe hiang thàu-thiⁿ
       original: 月香開花香透天
       modify01: 月香開花香透天
     2:
@@ -334,11 +334,11 @@ lyrics:
   19:
     unkha: ang
     1:
-      POJ: Kim-hōng khai-hoa hio̍h-hā hông
+      POJ: Kim-hōng khui-hoe hio̍h-hā hông
       original: 金鳳開花葉下黃
       modify01: 金鳳開花葉下黃
     2:
-      POJ: Kah hiahⁿ sio-hó tsîng tiⁿ-thn̂g
+      POJ: Kah hiahⁿ sio-hó tsêng tiⁿ-thn̂g
       original: 恰兄相好情甜糖
       modify01: 佮兄相好情甜糖
     3:
@@ -352,7 +352,7 @@ lyrics:
   20:
     unkha: o
     1:
-      POJ: Lo̍k-chhang khai-hoa peh-poh-poh
+      POJ: Lo̍k-chhang khui-hoe peh-poh-poh
       original: 鹿葱開花白波波
       modify01: 鹿蔥開花白波波
     2:
@@ -370,7 +370,7 @@ lyrics:
   21:
     unkha: ai
     1:
-      POJ: Bo̍k-hiang khai-hoa lâng siōng-ài
+      POJ: Bo̍k-hiang khui-hoe lâng siōng-ài
       original: 木香開花人上愛
       modify01: 木香開花人上愛
     2:
@@ -388,11 +388,11 @@ lyrics:
   22:
     unkha: ang
     1:
-      POJ: Ke-koaⁿ khai-hoa thâu âng-âng
+      POJ: Ke-koaⁿ khui-hoe thâu âng-âng
       original: 鷄冠開花頭紅紅
       modify01: 雞冠開花頭紅紅
     2:
-      POJ: Bûn-bîng niû-á ū-chîⁿ-lâng
+      POJ: Bûn-bêng niû-á ū-chîⁿ-lâng
       original: 文明娘仔有錢人
       modify01: 文明娘仔有錢人
     3:
@@ -406,7 +406,7 @@ lyrics:
   23:
     unkha: o
     1:
-      POJ: Kán-ná khai-hoa chhin-chhiūⁿ thô
+      POJ: Kán-ná khui-hoe chhin-chhiūⁿ thô
       original: 橄欖開花親像桃
       modify01: 橄欖開花親像桃
     2:
@@ -424,7 +424,7 @@ lyrics:
   24:
     unkha: o
     1:
-      POJ: Gio̍k-lân khai-hoa peh-poh-poh
+      POJ: Gio̍k-lân khui-hoe peh-poh-poh
       original: 玉蘭開花白波波
       modify01: 玉蘭開花白波波
     2:
@@ -442,7 +442,7 @@ lyrics:
   25:
     unkha: ang
     1:
-      POJ: Pî-pê khai-hoa chí sī hông
+      POJ: Pî-pê khui-hoe chí sī hông
       original: 批把開花子是黃
       modify01: 枇杷開花子是黃
     2:
@@ -454,17 +454,17 @@ lyrics:
       original: 阿哥卜食阮來裝
       modify01: 阿哥欲食阮來裝
     4:
-      POJ: Khah-hó liân-chí phàu ping-thn̂g
+      POJ: Khah-hó liân-chí phàu peng-thn̂g
       original: 恰好蓮子泡氷糖
       modify01: 較好蓮子泡冰糖
   26:
     unkha: iau
     1:
-      POJ: Chhài-tāu khai-hoa tn̂g-tóe tiâu
+      POJ: Chhài-tāu khui-hoe tn̂g-tóe tiâu
       original: 菜豆開花長短條
       modify01: 菜豆開花長短條
     2:
-      POJ: Iûⁿ-bê khai-hoa pòaⁿ-mê-tiâu
+      POJ: Iûⁿ-bê khui-hoe pòaⁿ-mê-tiâu
       original: 楊梅開花半冥朝
       modify01: 楊梅開花半暝朝
     3:
@@ -478,7 +478,7 @@ lyrics:
   27:
     unkha: ang
     1:
-      POJ: Iā-hiang khai-hoa thàu mê-hiang
+      POJ: Iā-hiang khui-hoe thàu mê-hiang
       original: 夜香開花透冥香
       modify01: 夜香開花透暝香
     2:
@@ -496,7 +496,7 @@ lyrics:
   28:
     unkha: an
     1:
-      POJ: Gio̍k-lân khai-hoa hio̍h uan-uan
+      POJ: Gio̍k-lân khui-hoe hio̍h uan-uan
       original: 玉蘭開花葉灣灣
       modify01: 玉蘭開花葉灣灣
     2:
@@ -514,7 +514,7 @@ lyrics:
   29:
     unkha: ang
     1:
-      POJ: Bi̍t-tô khai-hoa ū chi̍t-châng
+      POJ: Bi̍t-tô khui-hoe ū chi̍t-châng
       original: 蜜陀開花有一欉
       modify01: 密陀開花有一欉
     2:
@@ -532,7 +532,7 @@ lyrics:
   30:
     unkha: ai
     1:
-      POJ: Hái-tông khai-hoa ia̍h ài chái
+      POJ: Hái-tông khui-hoe ia̍h ài chái
       original: 海棠開花蝶愛採
       modify01: 海棠開花蝶愛採
     2:
@@ -540,7 +540,7 @@ lyrics:
       original: 娘汝未大想卜呆
       modify01: 娘汝未大想欲歹
     3:
-      POJ: Hiong-chîng lī-liap thut-se-se
+      POJ: Hiong-chêng lī-liap thut-se-se
       original: 胸前二粒凸西西
       modify01: 胸前二粒凸西西
     4:
@@ -550,7 +550,7 @@ lyrics:
   31:
     unkha: ang
     1:
-      POJ: Siông-bî khai-hoa chiàⁿ chhiⁿ-hiang
+      POJ: Siông-bî khui-hoe chiàⁿ chhiⁿ-hiang
       original: 薔薇開花正清香
       modify01: 薔薇開花正清香
     2:
@@ -566,13 +566,13 @@ lyrics:
       original: 做呆趁食姑不章
       modify01: 做歹賺食姑不將
   32:
-    unkha: ing
+    unkha: eng
     1:
-      POJ: Sông-chó khai-hoa sī khó͘-lēng
+      POJ: Sông-chó khui-hoe sī khó͘-lēng
       original: 成棗開花是苦令
       modify01: 酸棗開花是苦苓
     2:
-      POJ: Chhit-liap ko-sing chi̍t-liap bîng
+      POJ: Chhit-liap ko-seng chi̍t-liap bêng
       original: 七粒孤星一粒明
       modify01: 七粒孤星一粒明
     3:
@@ -586,7 +586,7 @@ lyrics:
   33:
     unkha: ang
     1:
-      POJ: Kuì-hoa tng khai chhiū-tíng hiang
+      POJ: Kuì-hoa tng khai chhiū-téng hiang
       original: 桂花當開樹頂香
       modify01: 桂花當開樹頂香
     2:
@@ -604,7 +604,7 @@ lyrics:
   34:
     unkha: ang
     1:
-      POJ: Chhiok-io̍h khai-hoa âng iū hông
+      POJ: Chhiok-io̍h khui-hoe âng iū hông
       original: 芍葯開花紅又黃
       modify01: 芍藥開花紅又黃
     2:
@@ -622,7 +622,7 @@ lyrics:
   35:
     unkha: iang
     1:
-      POJ: Kin-chio khai-hoa siâⁿ kim-tiāⁿ
+      POJ: Kin-chio khui-hoe siâⁿ kim-tiāⁿ
       original: 芎蕉開花成金錠
       modify01: 弓蕉開花成金錠
     2:
@@ -640,7 +640,7 @@ lyrics:
   36:
     unkha: ang
     1:
-      POJ: Mûi-hoa khai-thàu niá-tíng hiang
+      POJ: Mûi-hoa khai-thàu niá-ting2 hiang
       original: 梅花開透嶺頂香
       modify01: 梅花開透嶺頂香
     2:
@@ -652,13 +652,13 @@ lyrics:
       original: 娘仔靜靜共我講
       modify01: 娘仔靜靜共我講
     4:
-      POJ: Khí-kha tāng-chhió sing bô-thang
+      POJ: Khí-kha tāng-chhió seng bô-thang
       original: 起脚動手先不通
       modify01: 起腳動手先不通
   37:
     unkha: it
     1:
-      POJ: Hâm-chhiò khai-hoa siâⁿ bo̍k-pit
+      POJ: Hâm-chhiò khui-hoe siâⁿ bo̍k-pit
       original: 含笑開花成木筆
       modify01: 含笑開花成木筆
     2:
@@ -676,7 +676,7 @@ lyrics:
   38:
     unkha: i
     1:
-      POJ: Chhiah-chok khai-hoa tē-hā hi
+      POJ: Chhiah-chok khui-hoe tē-hā hi
       original: 赤足開花地下希
       modify01: 赤足開花地下稀
     2:
@@ -694,7 +694,7 @@ lyrics:
   39:
     unkha: i
     1:
-      POJ: Chuí-kím khai-hoa peh-si-si
+      POJ: Chuí-kím khui-hoe peh-si-si
       original: 水錦開花白糸糸
       modify01: 水錦開花白絲絲
     2:
@@ -702,7 +702,7 @@ lyrics:
       original: 少年兄哥生巧氣
       modify01: 少年兄哥生巧氣
     3:
-      POJ: Bîng-bîng cha̍p-hun kah niû-ì
+      POJ: Bêng-bêng cha̍p-hun kah niû-ì
       original: 明明十分甲娘意
       modify01: 明明十分合娘意
     4:
@@ -712,7 +712,7 @@ lyrics:
   40:
     unkha: an
     1:
-      POJ: Chi̍ah-tek khai-hoa chāi Khûn-san
+      POJ: Chi̍ah-tek khui-hoe chāi Khûn-san
       original: 石竹開花在權山
       modify01: 石竹開花在崑崙山
     2:
@@ -730,7 +730,7 @@ lyrics:
   41:
     unkha: u
     1:
-      POJ: Sì-ing khai-hoa hn̂g chīn ū
+      POJ: Sì-eng khui-hoe hn̂g chīn ū
       original: 四英開花園盡有
       modify01: 四英開花園盡有
     2:
@@ -748,7 +748,7 @@ lyrics:
   42:
     unkha: ak
     1:
-      POJ: Gio̍k-chiam khai-hoa bīn tiâu-pak
+      POJ: Gio̍k-chiam khui-hoe bīn tiâu-pak
       original: 玉簪開花面朝北
       modify01: 玉簪開花面朝北
     2:
@@ -766,7 +766,7 @@ lyrics:
   43:
     unkha: i
     1:
-      POJ: Goe̍h-kì khai-hoa jû kim-hî
+      POJ: Goe̍h-kì khui-hoe jû kim-hî
       original: 月記開花如金魚
       modify01: 月季開花如金魚
     2:
@@ -784,7 +784,7 @@ lyrics:
   44:
     unkha: iau
     1:
-      POJ: Chhiū-bê khai-hoa pòaⁿ-mê-tiâu
+      POJ: Chhiū-bê khui-hoe pòaⁿ-mê-tiâu
       original: 樹梅開花半冥朝
       modify01: 樹梅開花半暝朝
     2:
@@ -802,7 +802,7 @@ lyrics:
   45:
     unkha: ian
     1:
-      POJ: Sian-thô khai-hoa chāi pòaⁿ-thiⁿ
+      POJ: Sian-thô khui-hoe chāi pòaⁿ-thiⁿ
       original: 仙桃開花在半天
       modify01: 仙桃開花在半天
     2:
@@ -820,7 +820,7 @@ lyrics:
   46:
     unkha: u
     1:
-      POJ: Sông-chhiū khai-hoa kiat-siâⁿ chu
+      POJ: Sông-chhiū khui-hoe kiat-siâⁿ chu
       original: 松樹開花結成珠
       modify01: 松樹開花結成珠
     2:
@@ -838,7 +838,7 @@ lyrics:
   47:
     unkha: ang
     1:
-      POJ: Sông-peh khai-hoa ē thó͘ hông
+      POJ: Sông-peh khui-hoe ē thó͘ hông
       original: 松柏開花會吐黃
       modify01: 松柏開花會吐黃
     2:
@@ -854,9 +854,9 @@ lyrics:
       original: 賣田賣厝不通廣
       modify01: 賣田賣厝不通講
   48:
-    unkha: ing
+    unkha: eng
     1:
-      POJ: Soāiⁿ-á khai-hoa tmá chhiū bîng
+      POJ: Soāiⁿ-á khui-hoe tmá chhiū bêng
       original: 檨仔開花滿樹明
       modify01: 檨仔開花滿樹明
     2:
@@ -874,7 +874,7 @@ lyrics:
   49:
     unkha: au
     1:
-      POJ: To̍k-chiàm khai-hoa chāi soaⁿ-thâu
+      POJ: To̍k-chiàm khui-hoe chāi soaⁿ-thâu
       original: 獨占開花在山頭
       modify01: 獨占開花在山頭
     2:
@@ -892,7 +892,7 @@ lyrics:
   50:
     unkha: im
     1:
-      POJ: Kùa-chhài khai-hoa ē thiu-sim
+      POJ: Kùa-chhài khui-hoe ē thiu-sim
       original: 芥菜開花會抽心
       modify01: 芥菜開花會抽心
     2:
@@ -910,7 +910,7 @@ lyrics:
   51:
     unkha: ang
     1:
-      POJ: Âng-tek khai-hoa ta-ta-âng
+      POJ: Âng-tek khui-hoe ta-ta-âng
       original: 紅竹開花巢巢紅
       modify01: 紅竹開花巢巢紅
     2:
@@ -922,13 +922,13 @@ lyrics:
       original: 新娘交來舊娘放
       modify01: 新娘交來舊娘放
     4:
-      POJ: Ngiâ-sin khì-kū sing bô-thang
+      POJ: Ngiâ-sin khì-kū seng bô-thang
       original: 迎新去舊先不通
       modify01: 迎新去舊先不通
   52:
     unkha: o
     1:
-      POJ: Bi̍t-lī khai-hoa peh-poh-poh
+      POJ: Bi̍t-lī khui-hoe peh-poh-poh
       original: 茉莉開花白波波
       modify01: 茉莉開花白波波
     2:
@@ -946,7 +946,7 @@ lyrics:
   53:
     unkha: ang
     1:
-      POJ: Soaⁿ-tê khai-hoa móa soaⁿ âng
+      POJ: Soaⁿ-tê khui-hoe móa soaⁿ âng
       original: 山茶開花滿山紅
       modify01: 山茶開花滿山紅
     2:
@@ -964,7 +964,7 @@ lyrics:
   54:
     unkha: ai
     1:
-      POJ: Chuí-chhó khai-hoa chhim tiân-lāi
+      POJ: Chuí-chhó khui-hoe chhim tiân-lāi
       original: 水草開花深田內
       modify01: 水草開花深田內
     2:
@@ -982,7 +982,7 @@ lyrics:
   55:
     unkha: ang
     1:
-      POJ: Soaⁿ-io̍h khai-hoa chāi soaⁿ-niá
+      POJ: Soaⁿ-io̍h khui-hoe chāi soaⁿ-niá
       original: 山藥開花在山嶺
       modify01: 山藥開花在山嶺
     2:
@@ -990,7 +990,7 @@ lyrics:
       original: 文廣困在柳州城
       modify01: 文廣困在柳州城
     3:
-      POJ: Hō͘ ko sing hiau chi̍t-pái tiāⁿ
+      POJ: Hō͘ ko seng hiau chi̍t-pái tiāⁿ
       original: 乎哥先僥一擺定
       modify01: 予哥先僥一擺定
     4:
@@ -1000,7 +1000,7 @@ lyrics:
   56:
     unkha: ian
     1:
-      POJ: Hiok-hû khai-hoa ū chi̍t-chi
+      POJ: Hiok-hû khui-hoe ū chi̍t-chi
       original: 旭孚開花有一枝
       modify01: 旭孚開花有一枝
     2:
@@ -1018,7 +1018,7 @@ lyrics:
   57:
     unkha: au
     1:
-      POJ: Han-chhiū khai-hoa sī lí-lâng
+      POJ: Han-chhiū khui-hoe sī lí-lâng
       original: 番樹開花是李人
       modify01: 番樹開花是俚人
     2:
@@ -1036,7 +1036,7 @@ lyrics:
   58:
     unkha: ang
     1:
-      POJ: Chí-tê khai-hoa soan khòe-niá
+      POJ: Chí-tê khui-hoe soan khòe-niá
       original: 紫籐開花宣過嶺
       modify01: 紫藤開花蔓過嶺
     2:
@@ -1054,7 +1054,7 @@ lyrics:
   59:
     unkha: ian
     1:
-      POJ: Peh-khîng khai-hoa chāi siōng-thiⁿ
+      POJ: Peh-khêng khui-hoe chāi siōng-thiⁿ
       original: 白瓊開花在上天
       modify01: 白瓊開花在上天
     2:
@@ -1072,7 +1072,7 @@ lyrics:
   60:
     unkha: i
     1:
-      POJ: Peh-hap khai-hoa hiang chi̍t-mî
+      POJ: Peh-hap khui-hoe hiang chi̍t-mî
       original: 百合開花香一冥
       modify01: 百合開花香一暝
     2:
@@ -1090,7 +1090,7 @@ lyrics:
   61:
     unkha: o
     1:
-      POJ: Sia̍h-liû khai-hoa siâⁿ en-thô
+      POJ: Sia̍h-liû khui-hoe siâⁿ en-thô
       original: 射榴開花成櫻桃
       modify01: 石榴開花成櫻桃
     2:
@@ -1108,7 +1108,7 @@ lyrics:
   62:
     unkha: ang
     1:
-      POJ: Lo̍k-hiong khai-hoa thiⁿ-tíng hiang
+      POJ: Lo̍k-hiong khui-hoe thiⁿ-téng hiang
       original: 祿香開花天頂香
       modify01: 陸香開花天頂香
     2:
@@ -1120,13 +1120,13 @@ lyrics:
       original: 狐狸妖精述入空
       modify01: 狐狸妖精縮入空
     4:
-      POJ: Pê hiahⁿ sîn-hûn sing bô-thang
+      POJ: Pê hiahⁿ sîn-hûn seng bô-thang
       original: 迷兄神魂先不通
       modify01: 迷兄神魂先不通
   63:
-    unkha: ing
+    unkha: eng
     1:
-      POJ: Khîng-nâ khai-hoa hiang iū chhiⁿ
+      POJ: Khêng-nâ khui-hoe hiang iū chhiⁿ
       original: 瓊林開花香又清
       modify01: 瓊林開花香又清
     2:
@@ -1134,7 +1134,7 @@ lyrics:
       original: 愛纒水某賣大燈
       modify01: 愛纏水某賣大燈
     3:
-      POJ: Pē-bó seⁿ ko bô lâng-chîng
+      POJ: Pē-bó seⁿ ko bô lâng-chêng
       original: 父母生哥無人情
       modify01: 父母生哥無人情
     4:
@@ -1144,7 +1144,7 @@ lyrics:
   64:
     unkha: io
     1:
-      POJ: Khu-siông khai-hoa hio̍h khah sió
+      POJ: Khu-siông khui-hoe hio̍h khah sió
       original: 枯祥開花葉恰小
       modify01: 枯祥開花葉較小
     2:
@@ -1162,7 +1162,7 @@ lyrics:
   65:
     unkha: o
     1:
-      POJ: Chhài-thâu khai-hoa chin-chiàⁿ khó͘
+      POJ: Chhài-thâu khui-hoe chin-chiàⁿ khó͘
       original: 菜頭開花真正苦
       modify01: 菜頭開花真正苦
     2:
@@ -1170,7 +1170,7 @@ lyrics:
       original: 結子原來釘落塗
       modify01: 結子原來釘落土
     3:
-      POJ: Hō͘ ko sing hiau beh síng-pō͘
+      POJ: Hō͘ ko seng hiau beh séng-pō͘
       original: 乎哥先僥卜省步
       modify01: 予哥先僥欲省步
     4:
@@ -1180,7 +1180,7 @@ lyrics:
   66:
     unkha: o
     1:
-      POJ: Chi-lân khai-hoa hiang kah hó
+      POJ: Chi-lân khui-hoe hiang kah hó
       original: 芝蘭開花香甲好
       modify01: 芝蘭開花香甲好
     2:
@@ -1192,13 +1192,13 @@ lyrics:
       original: 二人相好釣魚糙
       modify01: 二人相好釣魚簄
     4:
-      POJ: Bô-chai siáⁿ-lâng tāi-sing bô
+      POJ: Bô-chai siáⁿ-lâng tāi-seng bô
       original: 不知省人大先無
       modify01: 不知啥人大先無
   67:
     unkha: an
     1:
-      POJ: Chí-keng khai-hoa sin uan-uan
+      POJ: Chí-keng khui-hoe sin uan-uan
       original: 紫荊開花身灣灣
       modify01: 紫荊開花身灣灣
     2:
@@ -1216,7 +1216,7 @@ lyrics:
   68:
     unkha: am
     1:
-      POJ: Kiat-á khai-hoa kiat-siâⁿ kam
+      POJ: Kiat-á khui-hoe kiat-siâⁿ kam
       original: 桔仔開花結成柑
       modify01: 桔仔開花結成柑
     2:
@@ -1234,7 +1234,7 @@ lyrics:
   69:
     unkha: ang
     1:
-      POJ: Chhiu-khuî khai-hoa hio̍h iū âng
+      POJ: Chhiu-khuî khui-hoe hio̍h iū âng
       original: 秋葵開花葉又紅
       modify01: 秋葵開花葉又紅
     2:
@@ -1250,13 +1250,13 @@ lyrics:
       original: 營我十分汝即通
       modify01: 贏我十分汝才通
   70:
-    unkha: ing
+    unkha: eng
     1:
-      POJ: Hó͘-hī khai-hoa sek hun-bîng
+      POJ: Hó͘-hī khui-hoe sek hun-bêng
       original: 虎耳開花色分明
       modify01: 虎耳開花色分明
     2:
-      POJ: Tēng-nî niû-á tio̍h chièng-king
+      POJ: Tēng-nî niû-á tio̍h chièng-keng
       original: 叮嚀娘仔着正經
       modify01: 叮嚀娘仔著正經
     3:
@@ -1264,13 +1264,13 @@ lyrics:
       original: 別人恰好無路用
       modify01: 別人較好無路用
     4:
-      POJ: Bô-pí lí góa chiah chin-chîng
+      POJ: Bô-pí lí góa chiah chin-chêng
       original: 不比汝我即真情
       modify01: 不比汝我才真情
   71:
     unkha: o
     1:
-      POJ: Peh-chu̍t khai-hoa khì un-hô
+      POJ: Peh-chu̍t khui-hoe khì un-hô
       original: 白朮開花氣溫和
       modify01: 白朮開花氣溫和
     2:
@@ -1288,7 +1288,7 @@ lyrics:
   72:
     unkha: un
     1:
-      POJ: Tang-koe khai-hoa peh jû ûn
+      POJ: Tang-koe khui-hoe peh jû ûn
       original: 冬瓜開花白如雲
       modify01: 冬瓜開花白如雲
     2:
@@ -1306,7 +1306,7 @@ lyrics:
   73:
     unkha: iu
     1:
-      POJ: Kû-be̍h khai-hoa kiat siù-kiû
+      POJ: Kû-be̍h khui-hoe kiat siù-kiû
       original: 崔麥開花結綉球
       modify01: 瞿麥開花結繡球
     2:
@@ -1324,7 +1324,7 @@ lyrics:
   74:
     unkha: ai
     1:
-      POJ: Kuì-jîm khai-hoa ū chi̍t-pâi
+      POJ: Kuì-jîm khui-hoe ū chi̍t-pâi
       original: 桂荏開花有一排
       modify01: 桂荏開花有一排
     2:
@@ -1342,7 +1342,7 @@ lyrics:
   75:
     unkha: ang
     1:
-      POJ: Hô-kû khai-hoa siâⁿ phâng-hong
+      POJ: Hô-kû khui-hoe siâⁿ phâng-hong
       original: 荷蕖開花成防風
       modify01: 荷蕖開花成防風
     2:
@@ -1360,7 +1360,7 @@ lyrics:
   76:
     unkha: ang
     1:
-      POJ: Peh-chó khai-hoa chiah-kú âng
+      POJ: Peh-chó khui-hoe chiah-kú âng
       original: 白棗開花只久紅
       modify01: 白棗開花遮久紅
     2:
@@ -1378,7 +1378,7 @@ lyrics:
   77:
     unkha: an
     1:
-      POJ: Kùa-chhài khai-hoa siâⁿ kî-koaⁿ
+      POJ: Kùa-chhài khui-hoe siâⁿ kî-koaⁿ
       original: 芥菜開花成旗干
       modify01: 芥菜開花成旗竿
     2:
@@ -1396,7 +1396,7 @@ lyrics:
   78:
     unkha: un
     1:
-      POJ: Sng-chó khai-hoa sin kng-kng
+      POJ: Sng-chó khui-hoe sin kng-kng
       original: 酸棗開花身光光
       modify01: 酸棗開花身光光
     2:
@@ -1414,7 +1414,7 @@ lyrics:
   79:
     unkha: ang
     1:
-      POJ: Pô͘-liú khai-hoa chi-chi tn̂g
+      POJ: Pô͘-liú khui-hoe chi-chi tn̂g
       original: 蒲柳開花枝枝長
       modify01: 蒲柳開花枝枝長
     2:
@@ -1432,7 +1432,7 @@ lyrics:
   80:
     unkha: ang
     1:
-      POJ: Eng-mûi khai-hoa hio̍h chhiⁿ-hâng
+      POJ: Eng-mûi khui-hoe hio̍h chhiⁿ-hâng
       original: 英梅開花葉青黃
       modify01: 櫻梅開花葉青黃
     2:
@@ -1450,7 +1450,7 @@ lyrics:
   81:
     unkha: iu
     1:
-      POJ: Tē-hông khai-hoa kiat kui-kiû
+      POJ: Tē-hông khui-hoe kiat kui-kiû
       original: 地黃開花結歸球
       modify01: 地黃開花結歸球
     2:
