@@ -189,7 +189,7 @@ lyrics:
       original: 金快想着心肝嘈
       modify01: 金快想着心肝慒
   11:
-    unkha: iⁿ,i
+    unkha: [iⁿ, i]
     1:
       POJ: Pī lâng phiàn lâi ian-hoa īⁿ
       original: 被人片來烟花院
@@ -657,7 +657,7 @@ lyrics:
       original: 可惜娘落在烟花
       modify01: 可惜娘落在煙花
   37:
-    unkha: i, iⁿ
+    unkha: [i, iⁿ]
     1:
       POJ: Góa kun si̍t-chāi hó chêng-ì
       original: 我君實在好情意
@@ -711,7 +711,7 @@ lyrics:
       original: 報汝恩情合英皆
       modify01: 報你恩情合應該
   40:
-    unkha: iⁿ, i
+    unkha: [iⁿ, i]
     1:
       POJ: Kui-mê choân bô khùn pòaⁿ chhéⁿ
       original: 歸冥全無困半醒
