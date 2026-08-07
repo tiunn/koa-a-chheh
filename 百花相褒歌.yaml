@@ -106,13 +106,13 @@ lyrics:
       original: 蓮子開花一点紅
       modify01: 蓮子開花一點紅
     2:
-      POJ: Chôan-bāng niû-á sio-thiàⁿ-thàng
+      POJ: Chôan-bāng niû-kiáⁿ sio-thiàⁿ-thàng
       original: 全望娘子相痛疼
-      modify01: 全望娘仔相痛疼
+      modify01: 全望娘囝相痛疼
     3:
-      POJ: Siong-hāi niû-á chóng m̄-thang
+      POJ: Siong-hāi niû-kiáⁿ chóng m̄-thang
       original: 相害娘子總不通
-      modify01: 傷害娘仔總毋通
+      modify01: 傷害娘囝總毋通
     4:
       POJ: Tài-liām kun sin chhut-gōa-lâng
       original: 代念君身出外人
@@ -142,9 +142,9 @@ lyrics:
       original: 日葵開花向東平
       modify01: 日葵開花向東爿
     2:
-      POJ: Bô-gî niû-á chiah choat-chêng
+      POJ: Bô-gî niû-kiáⁿ chiah choat-chêng
       original: 無疑娘子即絕情
-      modify01: 無疑娘仔即絕情
+      modify01: 無疑娘囝即絕情
     3:
       POJ: Chá-ji̍t nā-chai tio̍h mài èng
       original: 早日那知就勿應
@@ -182,9 +182,9 @@ lyrics:
       original: 手夯雨傘顧娘身
       modify01: 手夯雨傘顧娘身
     3:
-      POJ: Chi̍t-sî bô-khòaⁿ niû-á bīn
+      POJ: Chi̍t-sî bô-khòaⁿ niû-kiáⁿ bīn
       original: 一時無看娘子面
-      modify01: 一時無看娘仔面
+      modify01: 一時無看娘囝面
     4:
       POJ: Kut-thâu thàng-thiàⁿ bē hoan-sin
       original: 骨頭疼痛袂翻身
@@ -200,7 +200,7 @@ lyrics:
       original: 盡心相好無幾个
       modify01: 盡心相好無幾个
     3:
-      POJ: Lán taⁿ sèng pu̍t tiō kā hē
+      POJ: Lán taⁿ siàⁿ-pu̍t tiō kā hē
       original: 咱今聖佛着加係
       modify01: 咱今聖佛就共下
     4:
@@ -290,9 +290,9 @@ lyrics:
       original: 番船過海半沉浮
       modify01: 番船過海半沉浮
     3:
-      POJ: Bī-chai niû-á tòa hē-chhù
+      POJ: Bī-chai niû-kiáⁿ tòa hē-chhù
       original: 未知娘子帶下厝
-      modify01: 未知娘仔蹛下厝
+      modify01: 未知娘囝蹛下厝
     4:
       POJ: Khah-chám hō͘ niû pê-tio̍h hû
       original: 恰慘乎娘迷着符
@@ -394,13 +394,13 @@ lyrics:
       original: 鷄冠開花頭紅紅
       modify01: 雞冠開花頭紅紅
     2:
-      POJ: Bûn-bêng niû-á ū-chîⁿ-lâng
+      POJ: Bûn-bêng niû-kiáⁿ ū-chîⁿ-lâng
       original: 文明娘仔有錢人
-      modify01: 文明娘仔有錢人
+      modify01: 文明娘囝有錢人
     3:
-      POJ: Chôan-bāng niû-á sio-thiàⁿ-thàng
+      POJ: Chôan-bāng niû-kiáⁿ sio-thiàⁿ-thàng
       original: 全望娘仔相痛疼
-      modify01: 全望娘仔相痛疼
+      modify01: 全望娘囝相痛疼
     4:
       POJ: Tāi-liām ko sin chhut-gōa-lâng
       original: 代念哥身出外人
@@ -506,9 +506,9 @@ lyrics:
       original: 目尾共娘汝偷關
       modify01: 目尾共娘汝偷關
     3:
-      POJ: Khòaⁿ-kìⁿ niû-á seⁿ hó-khóan
+      POJ: Khòaⁿ-kìⁿ niû-kiáⁿ seⁿ hó-khóan
       original: 看見娘仔生好欵
-      modify01: 看見娘仔生好款
+      modify01: 看見娘囝生好款
     4:
       POJ: Hāi ko mê-ji̍t sim-thâu lān
       original: 害哥冥日心頭亂
@@ -650,9 +650,9 @@ lyrics:
       original: 哥厝野有示大人
       modify01: 哥厝亦有示大人
     3:
-      POJ: Niû-á chīn-chīn kā góa kóng
+      POJ: niû-kiáⁿ chīn-chīn kā góa kóng
       original: 娘仔靜靜共我講
-      modify01: 娘仔靜靜共我講
+      modify01: 娘囝靜靜共我講
     4:
       POJ: Khí-kha tāng-chhió seng bô-thang
       original: 起脚動手先不通
@@ -866,9 +866,9 @@ lyrics:
       original: 無風無雨起蛟龍
       modify01: 無風無雨起蛟龍
     3:
-      POJ: Niû-á beh hiau iōng-sim kiâⁿ
+      POJ: niû-kiáⁿ beh hiau iōng-sim kiâⁿ
       original: 娘仔卜僥用心行
-      modify01: 娘仔欲僥用心行
+      modify01: 娘囝欲僥用心行
     4:
       POJ: Niáu-chhú khàu niau ké ū-chêng
       original: 鳥鼠哭猫假有情
@@ -1186,9 +1186,9 @@ lyrics:
       original: 芝蘭開花香甲好
       modify01: 芝蘭開花香甲好
     2:
-      POJ: Niû-á lín-chhù ū sin-ko
+      POJ: niû-kiáⁿ lín-chhù ū sin-ko
       original: 娘仔恁厝有新哥
-      modify01: 娘仔恁厝有新哥
+      modify01: 娘囝恁厝有新哥
     3:
       POJ: Lī-lâng sio-hó tiàu-hî-chho͘
       original: 二人相好釣魚糙
@@ -1258,9 +1258,9 @@ lyrics:
       original: 虎耳開花色分明
       modify01: 虎耳開花色分明
     2:
-      POJ: Tēng-nî niû-á tio̍h chièng-keng
+      POJ: Tēng-nî niû-kiáⁿ tio̍h chièng-keng
       original: 叮嚀娘仔着正經
-      modify01: 叮嚀娘仔著正經
+      modify01: 叮嚀娘囝著正經
     3:
       POJ: Pa̍t-lâng khah-hó bô-lō͘-iōng
       original: 別人恰好無路用
@@ -1294,9 +1294,9 @@ lyrics:
       original: 冬瓜開花白如雲
       modify01: 冬瓜開花白如雲
     2:
-      POJ: Bāng-beh niû-á khan-siâⁿ kun
+      POJ: Bāng-beh niû-kiáⁿ khan-siâⁿ kun
       original: 望卜娘仔牽成君
-      modify01: 望欲娘仔牽成君
+      modify01: 望欲娘囝牽成君
     3:
       POJ: Khan-siâⁿ kun sin nā chhut-ūn
       original: 牽成君身那出運
@@ -1438,9 +1438,9 @@ lyrics:
       original: 英梅開花葉青黃
       modify01: 櫻梅開花葉青黃
     2:
-      POJ: To-siā niû-á kā gún tńg
+      POJ: To-siā niû-kiáⁿ kā gún tńg
       original: 多謝娘仔甲阮返
-      modify01: 多謝娘仔甲阮返
+      modify01: 多謝娘囝甲阮返
     3:
       POJ: Bô-hiâm chuí-liō lō͘-thâu hng
       original: 無嫌水陸路頭遠
